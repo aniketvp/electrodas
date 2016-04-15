@@ -1199,4 +1199,502 @@ Epoch 9.06889584651 average loss = 1.20213302875
 ----
  **********#%$sa rājaniś ca padatāḥ   saṃnara_andra-vidʰā pitr̥-dvākriṃ   hataikau paṇḍavair brāve   duḥkʰaṅḥ saṃśāyanāṃś   candrāḥ sātyakiṃ satyadʰanaṃ te   bʰāradvājena saṃyuge /%$acitrān pratyavartanam$āyovatas tatas tais tadā //**********#%$rupuṇkāraḥ   śastanān ajyoṣir iva satyakiṃ tʰāṃ madʰyo hasyarnamiṣṭayām$nitrapate dūrśitam //**********#%$vyadrāhastʰair   ātrāv eva jivan /%$puṇāyavān /%$na madʰyamāḥ$āpanad duryato ravat //**********#%$sa vāga-vyohār   muyūma_aśyaḥ   kañcaraś ca ratʰena_iti kāś cit tatʰā /%$iti cekyasamāvataḥ$ 
 ----
-
+----
+ **********#%$ahaṃ tāṃr vāñ śatrubʰi_avaktīṃ tvām ustara_umaradraja mahityā ca   mānakaṃ cit tamo vīmā   mad brāvī viturgaṇaḥ$amaras tvaṃ   janaśīmaś ratʰavad arjunam /%$sātvakāṃ prabʰavād asya   pāñcālān manasā sāyunena ca metir mahā-śaga_anaiḥ //**********#%$maye dʰarma_ātmana_ubbʰavya sātyaki$nigʰnita_arha kr̥taṃ samare rāya-saṃkr̥tam /%$ākʰyātāḥ kruddʰo jāmā tvam anākramya saṃgrāhe   punaś prekṣaṇān himāñ//**********#%$lalbʰasya kāpyamānāṃ jalasā madʰye   dʰr̥ṣṭa-dyuminā-ratʰaiḥ //**********#%$śobidāḥ śataiḥ //**********#%$niścamam 
+----
+Epoch 11.8450884526 average loss = 1.11955698204
+----
+ **********#%$tatʰā tvaren /%$pāṇḍa-lāsanāg rājaṃs   teṣāṃ hataṃ caiva   nirmiśitair nr̥paiḥ$hatāḥ saṃjate   bʰāradvājasye śaidye_anagʰadʰāvavaḥ$saṃkʰyātas tu yaṃ muditā droṇaṃ   jigʰāṃsan samare sputro   varjavitvā yatʰāvarair īpanam$bʰīma-senaś ca vā naḥsākṣa-vartitam /%$droṇāya saṃyavedā varān apitapatvitoḥ //**********#%$āsmī kenā vitādʰi ca$matʰicakṣur dʰr̥tarāṣṭraṃ tupastʰena   nirviśyā paśyate anastʰinaḥ$yadāsya_aśva-metaḥ   sa pramupatena   sarvam ācaita sacyutā$bʰlānaṃ gr̥hyḁ̄   virāṇakamāṇāruṃ ca māriṣa //**********#%$sa rājñ 
+----
+Epoch 11.8759350371 average loss = 1.15245296764
+----
+ **********#%$tataḥ śūla yodʰa-kaś cyitaḥ /%$ecatasya putraśaḥ$sa kauravāḥ //**********#%$hayā-dr̥ḍʰena yānagʰo //**********#%$siṃharāṣṭiḥ prāriṇān bāṇānī   maṅgā duttamaḥ /%$tatʰā sa sahitā tu sahave   bāla-devaikaṃ pālaktam   arjunan pūrvebtāḥ   pīryavārtaṃ mahīm animantur mahā-ratʰām //**********#%$tataḥ prāpya saṃsāha   somanavaṃ sarvātās   tava putrasya māriṣa$droṇenājā mahāvr̥kāḥ$tām abʰyavarṣat parikṣata avāriyan /%$yatra ratʰaṃ mahābʰayat$yuga_antān arṇupatas tānu saṃmātnā   vasu-hāṃs tatʰā cairastaiḥ śairekr̥tānām ayudʰyanta m 
+----
+Epoch 11.9067816216 average loss = 1.12967244327
+----
+ **********#%$rudʰira_iva_abʰāva   sarvāṃs tu sainyaṃ sahubedʰe   gʰoraṃ vimahān   abijakaraṇaṃ hayāḥ //**********#%$padyapāśe niśarmaṇīte sitāvidʰe$tava sainyāni   viśr̥tya bʰānavat //**********#%$abʰyayāt sātyakevata //**********#%$nihatyā mahā-rāja   kiroddʰīḥ sahasrasamupūnnam avākarat /%$genakalṭi-he$pari_āpaprabʰāda bāhlaka mahad dorite rate$agninātyā mahā-ratʰāḥ //**********#%$tam aṣṭʰāṃ viratʰaṃ hataṃ matsārāputarkaṃ prāsayo nakʰeddrāṇi   gʰorāṃ bʰūma-sahye samāgāya   devīrān nara-r̥ṣayan /%$paraśatriśarāṃś cacre   cāryuktaṃ ya 
+----
+Epoch 11.9376282061 average loss = 1.13858054674
+----
+ **********#%$taṃ droṇa vipitaṃ putravāṃ tanyaṃ samāhr̥ṣṇayuṣu kayaṃ mahātmānau   karṇapunar vivyadʰāni /%$tena camāno jahārakraṃ   pratyiṣṭʰetuṃ bʰimaśāḥ su   hiva hatvā yuddʰavi varādʰād yatʰā //**********#%$punaḥ samabʰārya sudarśanā vāryu tato bāṇḍavas tadā //**********#%$tau yudʰi saṃyuge$citta-tadbʰiś ca mahā-rāja   mama parājkasya   jaharatmā vajanabʰān karṇobdʰītaḥ$yaṃ sām āhaṃ raṇe mūlā mahārāja   satita_aśva-gatin   somāhyaṃ ratʰasi mārgaṇaḥ$na yena samapadyatʰa$duryodʰanas tvaram$eṣa mukʰaṃ preṣayām āsa   vācaṃ cācintikāṃ pr 
+----
+Epoch 11.9684747906 average loss = 1.22019437218
+----
+ **********#%$evam uktas tato vākyāṃs te dʰanaṃgataḥ$bʰenyām atya_anje hita-māriṣam /%$prāharan devāḥ   karma daśvāsman sa saṃkuñca cakra-pravaṇeṣayat //**********#%$prahasya ca$karaṇaṃ jiṣva   yuyudʰānena haniṣyenti yuśi-pāṇo   yajñā rājya-jīvantī   pāṇḍaḥ pāṇḍaveyo hatānvikāḥ //**********#%$rūśas tatrābʰir eva tam ādmigʰo$nidʰarmā bʰrātʰatārtʰam āstayat /%$dʰanuṣā caiva   rakṣitena saṃprāptāṃ   vacanaṃsrājñe   bʰūṇābʰiś catvas   tava putrā yatʰā varam$na_itā ca_asya dʰanare vāriṇa vai dvau rājan vr̥ṣṇi-purāṇāya   yatʰaiva viṣṭʰann iv 
+----
+Epoch 11.9993213751 average loss = 1.21652584267
+----
+ **********#%$tad yu te putraṃ   vidpʰayan //**********#%$sayabʰir bʰaratasya ca$mayā cairaṃ śalevaraḥ$vidʰam̐u_anuram /%$dāsprasinyaṃ   droṇa_anīkam abʰyayāt /%$tasya pārtʰo my asu nāsutuḥ /%$vyadaratkamitā varam$bʰavr̥taṃ tu bʰavat prāpyām avaṃ sindʰurājaṃ ca padī daśabʰāviṣṭʰaṃ   tasya yudʰāmayāt$nāmastanaḥ ca viśeṣataḥ$tato 'nijantyāvakam akiraṣyati kruddʰaḥ   kasmai bʰīmasūn /%$sayajājagaiḥ$śakra_enaṃ   śata-ślena naikeka paśvataiḥ //**********#%$rudʰiravyo mahārojan   kruddʰo 'tya kaścid ruśaiḥ sa karṇaṃ tv canaṃ varam /%$dr̥ḍyam 
+----
+Epoch 12.0301679597 average loss = 1.20938355756
+----
+ **********#%$tasmin taiṣāṃ jatasiṃha   dravaṇās tāva samare   bandʰur dʰanaṃjaya$kiḥ putuś libʰī yattau   yo_ahaṅgaparaṃś caiva   saṃraktāḥ samarpayāḥ$tan sa\ āvagnaiḥ   saṃvr̥ddʰaś cakravīkābʰir ayudʰyanta mahā-sena   priyahau kr̥ta_andrasya vr̥ttamānānāṃ   vīryeṇa bʰūri-yuddʰa-mahā-yugʰād sūta-pukrodaro jāla-sahasraiḥ   prepayan sūtā   pañcalānāṃ ca   śūrayantaḥ /%$prāvr̥ddʰau saṃprasam iva pratiradʰyato bʰaratavrātā   bʰagavān dadam avāprājayor nāma   prāptaiṃ kṣudrahāraṇaḥ {!}$ratʰāś caiva_upamayartʰam abʰiyugais tūto   ratʰaṃ paṇ 
+----
+Epoch 12.0610145442 average loss = 1.23740664899
+----
+ **********#%$navadʰyam upāśruttaṃ   pārtʰaḥ krodʰa-dvipa_ājauṣaṃ mayā sutāḥ$tvayā deva_arjanī-caratas   tava drauṇeḥ   putrāṇāṃ śaraḍīyaṃ ca mādraveṇāni samiti bʰogas tapasā mānavaiḥ$aśarai jvāritaḥ sindʰu-rājasyesya   samāsīd aśvān   bʰaila pratyavidʰyam /%$ānayany eva   tarakṣāṇāṃ   vāsudevam ūkʰi samantataḥ //**********#%$siṃhavadd^haṃ samārejyas   tat sarvaśas tatʰā devo   viditra-dʰanaṃ śine$brāhmaṇac cʰaraiḥ sāgara-varṇaḥ śito gaja_acinaḥ śara-gʰoganīkeśam   apaīkṣāḥ sa   gʰaṭṭādʰavān yatʰe$dʰarme_antare śubʰūhiṣṭe   punaḥ pāṇḍu 
+----
+Epoch 12.0918611287 average loss = 1.11282894146
+----
+ **********#%$tiṃ vivyadʰānāṃ kilau cobʰī   sāgara_āstīkṣṇa   pārtʰaṃ hi śetaiḥ śaraiḥ$ṣiṇye bʰaglair   nihata-sahasra_akʰo vajavr̥ddʰeṣa ca tīvakāt {!}$kampayante śara-varṣeṇa mīrgṇo bʰaknantaḥ sumāhaś ca ye samanāpaścan   kruddʰāḥ samapadyata //**********#%$tasmāt tribʰiḥ //**********#%$yo veka\ āvr̥taṃ drauṇiṃ   karṇaṃ tvalitaviśāḥ karṇo   bʰallabʰr̥tāṃ varāḥ$otasi cātragatair bāṇaiḥ   sa jeṣā\ iva_adʰipa //**********#%$uttrīṣṭāṃ bʰoje -dʰanur bʰrātva   yuddʰo yeva sātyakiḥ //**********#%$tato bʰūmau   sādu yuddʰaṃ śaravarṣeṇa   sak 
+----
+Carriage Return
+Epoch 12.1227077132 average loss = 1.15645602345
+----
+ **********#%$rakṣaṇenv āhā jitakuṇḍʰeṇa   preṣayaṃś ca nismayaṃ tadā tkarāya sahasrāsya viprarigam$kupakraṃ nimgrāha-sudr̥ṣṭaṃ cʰārayantī vane na tasyāṃ dʰruvaṃ pitā$sa nāśābʰir   droṇa_anusa bʰārata //**********#%$sahudevaḥ saha saṃtʰāruṃ   tiṣṭʰa_igānāṃ ratʰānīdayāt te raṇa-mārāṇāṃ   samāgatā-śpatāḥ //**********#%$yatʰāsīt tu sādanaḥ$ta_uttānām abʰyeṣu sāmapad dr̥ṣṭvā rājan mahārtasīm$tato_abʰavat /%$yatʰācaināti śikrasya   hena vāsavaḥ$gaccʰa tu balavāt   kāleni ceta pratīpaniṣasyārśubʰinā yudʰi //**********#%$tato 'pi droṇam atʰa_ 
+----
+Epoch 12.1535542977 average loss = 1.27603283238
+----
+ **********#%$śūlāni sulagʰaṃ parigr̥hya vai labdʰau   mr̥tyus tatra rakṣaveṇa samare   sāsako 'ntare yāsyann iva vātyān   mukʰe praktijau ke_abʰyajaraḥ param$pitr̥-papāta naḥ śatrukʰena sadʰivas teṣām abʰūt$dr̥ṣṭyā caiva yotayum ayāṃ parimakʰyana$gadāṃ vanaḥ //**********#%$supardānāṃ   vijivyā paśya śata_otyā tv alayodmaham$gaṇāṃ cakra   gʰorair iṣṭāṃ   samākʰyānam   upavivartyavannas tatoratam$pratīpyapr̥ṣṭʰaṃ tato 'rjunasya maya vāreṇa śāradvā gaccʰa duruto duryodʰano vicitraṃ ca śaṃsamāḥ$vyatʰitaipāni śata_ohasya saha parīmi hatḥ ś 
+----
+Epoch 12.1844008822 average loss = 1.36593689275
+----
+ **********#%$r̥ṣadbʰavaḥ$ukātaṃ dʰanaṃjaye /%$te nirago 'haṃ dr̥ṣṭvā   na matraś ca ratʰo vayūnam avitdadat$tasya śarabʰir nr̥patinīṃ caiva   vyavastʰekam   avastʰāni ca yāni carato   duryadʰr̥taś caiva   madau kṣamam //**********#%$vāsudevasya samastina gatāṃ vibʰave saktam   amarṣayaṃ br̥hat pārtʰivo vindanukʰāḥ panna-hi cānya viśiṣṭiḥ kr̥yat //**********#%$kr̥ṣṇaś cādya bʰaktāni   śagnena_asinādani //**********#%$ācārya kartasam āvr̥taṃ vai yatʰā /%$hinīṃs tavaśūlyayām āsa bʰārata //**********#%$katiḥ sid r̥ccitāḥ$mām āsaneya$vimuk 
+----
+Epoch 12.2152474667 average loss = 1.40717418003
+----
+ **********#%$tasmai tu tava hi daśeṣu ca gomra-rāja-patir bʰakṣaśalaḥ pravaro_atra nijagʰnema   tārtʰamyasya yogatāś ca mahātmanā$iva prāviśat pārtʰo   viṃśatyā te stʰitam upāgamyato nyopamano mānasya sa gajo hinir drauṇir devakīrtanā$na hi mānakaḥ$tad rājanaṃ nāmu-tatʰetram acacara prati vyasanne   prajāsati prayagnām eva prahrādaiḥ   siṃhasya_api papninaḥ sarve   prīṣo jamo mahāprajaḥ$kadābʰyaḥ sāryakaḥ paraṃ patre ca   gadrā nimagaccʰāpadit tadā /%$nānāśrupeṇaṃ varutoṃ janamayān   bʰagānām ukta-śleṅgʰān   jigʰāṣvībʰrūtuṃ ca bʰāsādʰ 
+----
+Epoch 12.2460940512 average loss = 1.329369385
+----
+ **********#%$ātus tava śatena gauretam abʰināgahaḥ$andʰa-gantaṃ kutas tatra   yugāḥ śoṣmubʰiś citra-ratʰaiva ca //**********#%$śikʰasy astraviṇīkṣitam /%$śabjī guru mr̥gur iti stʰite$vicartepuṅkʰaiḥ pitarau vyetaṃ   sarveṣāṃ tvad-yajñe ratʰāneda   kāsyā bʰakṣayanta iti$abʰavad dīkṣaṇaṃ vācasi /%$marttaṃ ham   ākʰiṃ caktur mahā-bādʰe   śāpāṃ tumalasya ca //**********#%$tasyo rajān rājyeṣu 'pi manurān balān narān /%$anardaḥ kainte   garuṇi vā paryatapasyaci kauravya   karu-bʰakṣin narānti ca /%$ekna yodʰanuḥ kripdate /%$aśvadrutaṃ sa kā 
+----
+Epoch 12.2769406357 average loss = 1.32007306004
+----
+ **********#%$apasyasma parasparam utsr̥jya sirāṭāṃs   tatra kaścalaḥ //**********#%$sarveṣāṃ pravavr̥to bʰavet$teṣvisaṃs tāta   kaśyapasya vāṃ ttanā pakṣipatyāḥ saprate dʰarte   parādrupadiśyanta bahabʰiḥ sura-para-pāriṣaḥ /%$jātamāsī senāvartate ye prajasmaryam   āpannena te kāśyaṃ ca   rājan dvipa-vidʰair   māturo 'bʰyupadyuttʰe 'nyas tatʰā //**********#%$cakṣva caiva samaja_aśvāya nayaṃ tatʰāpyati /%$atra duḥkʰāntaṃ ca /%$ahāri kr̥tavartʰena putra pr̥tʰa-pate nahitavyo_api vayaṃ pateca /%$tasmit timīraṃ tat   vastvam evaṃ sarvāprav 
+----
+Epoch 12.3077872203 average loss = 1.35193507493
+----
+ **********#%$sasāmais te   prasahya śrutvā //**********#%$te sarvabʰūto norasya lāstikaḥ sukʰānāṃ mahārate$anvagʰātvajāḥ$vitupaṃś caiva bʰāratam$varaṃ jñeyam   anāni nīrpayan$yomān bravīvitailaśaḥ /%$kilakaṃstrebʰyāṃ   samuglāṇa-gaṣṭʰānair   buddʰi-yugʰā_artʰyascana prasaujyamānās te varasa saṃjiyaḥ$ekāny adʰīm /%$uṣṅgair iha vidyutsatas tatʰvāpsuvrato mānaṣāpuḥ saupipṇas   teṣa tvaṃ suritaṃ   devakṣṇipotre viśikʰo jotaḥ śikīḥ //**********#%$atʰānaka svavuk lośitaṃ samataṃtravitā\ya-rāja-śatrus te nr̥pati   te gācālimitasya mahān karm 
+----
+Epoch 12.3386338048 average loss = 1.29975638509
+----
+ **********#%$śreṣṭʰaś caiva   ecanām̐r loḍyam   anagany acamasya bahubʰyām$ca putraḥ pramaditaṃ   nābʰinnān anāśanta   mo brahmarata-saṃmitaiḥ //**********#%$atasya dʰarmasya   bʰūriś caiva divaṃ nadā; gaya_eṣaṇa punaṃ pannaga-ratʰaivaiccʰadʰavatā rakum //**********#%$tatas taim atʰa_upamnu_abʰiyo vyūja satṣam asiṃhaneka\ iti kartāṃś ca bʰaviṣyati$gatavāgrād idaram arīkṣase /%$balī purastraṃ; sumastrabʰr̥tasvāno   mahānaśābʰir ita madbānāṃ   yayārtʰinam ahaṃ viśiśitān jātuḥ   pratyavadʰar balau //**********#%$kāśyapaṃ ca paśāyamam /%$ 
+----
+Epoch 12.3694803893 average loss = 1.38154838562
+----
+ **********#%$evam eko bʰr̥śaś cr̥taṃ sutam //**********#%$jānāmi yaṃ deva yānum āvarṣaṃ   sumodʰanaṃ tāja ca_ākyumānāḥ saṃdʰarṣiś ca vane kāraṇe śabbada_olat śr̥yotma depate /%$pratena putreṇa   putrāṃś ca   mahanti te /%$putraṅgaṃ ca te_argavat /%$sarvasaṃ jokʰair   nānā putrān   nāsīt śaṅkʰam anugram avārayad ibāganaḥ$āṇārahaḥ śiṣṭā jutena vihayā-balam //**********#%$lambʰasya rāja-mr̥danā-kalaḥ /%$havaṃ brahma prabʰānave$pāṇḍavīyasya mahātmanā /%$anurāntena yuśāmantu vacanā vālaṃs   tava putrasya papāta jajñiraṃ   na tat kraṣva_aśī 
+----
+Epoch 12.4003269738 average loss = 1.3528051523
+----
+ **********#%$kārmukaṃ pr̥tʰe$tuṣṭyāmānāñ śatrus tatʰaiva dʰarmataḥ$kr̥tena_aditum //**********#%$gatvā bʰayaṃś ca priyaṃ saṃprāntala_untamaḥ /%$tvam eda\ eva tvāṃ   vairamko māṃ   samākrodvaṃ   kamasuṃ kāryaḥ   pandrasyāma sena-vrataṃ tāto   dʰarmo sikāt putraḥ   pāñcālāt tvaṃ yayāḥ śibʰiḥ kṣuttānāṃ   ye na tatʰā talaḥ prasasaṃśriṣṭāḥ   saṃśayas tu nā ye guru jaya //**********#%$atʰāntarāṅgʰaiḥ$tato yāṃ sahasreṇā   śatapaśvabʰān$dvīpam edat svaram /%$mantro 'stu bʰavanti ca$anuttʰān puro /%$sāt putra-saṃmatam /%$uttaraṃ puṣya-karṇaḥ s 
+----
+Epoch 12.4311735583 average loss = 1.4552908901
+----
+ **********#%$triyarśanaḥ //**********#%$bʰīyene lāpiter hayāḥ /%$bʰehāyani gʰaratasya ca vayaṃ pitā na janate dʰarmejayogrīm abʰyetya   paśyad jakma_iha_āraṇam //**********#%$vihena kr̥ṣṇamānasya   nipr̥ṣṭis tatʰaiva rājan   pragādʰa loma_asi   pālayāṃ vara //**********#%$ayaṃ yajñe   yatra rājaḥ kr̥taṃ stītās tatʰā_aśvaṃ tvayā //**********#%$yayāsenaṃ hatināhyati$āhave saṃyaḥ   pr̥tʰaṃ tāṃ ca saṃpannān   nī stʰā darjananītas tu trīṃś caiva sarvate$diṣṭyā balenni /%$slāpatraḥ sumahān uta //**********#%$sī te varāya lāmā vipret tvayi p 
+----
+Epoch 12.4620201428 average loss = 1.28677071762
+----
+ **********#%$mārācā_idaṃ vr̥ṣo manīmai; atʰātya_eyam abravīd dr̥ṣṭvā kila-cat pūrvaṃ dr̥ṣṭāḥ   putro yad abʰyāge   kīvāsa sarvaśanomave$satyavatā deva   tatʰā satyavidayad yadiṣṭʰavat$mām agatʰā   vigragtaḥ sarve   nāgacād yā#vace mahāḥ /%$daḥśikalyā vidustām acenaparikur mātaḥ   pārtʰivas tataḥ savābʰibʰāḥ$samadʰeṣa tam$vr̥taṃ sarva-dʰarma_uttamān /%$sūtavat kaśaḥ śita saṃtaptaṃ   mahā-rāja pravara nāga-gīnam adʰipat saṃ dātaṃ   sad āhām atra me$śayaṃ tāna-hura_andʰui /%$etasminn mātur nilyate bilūcinam //**********#%$tasmād samanisa 
+----
+Epoch 12.4928667273 average loss = 1.25700035107
+----
+ **********#%$etasminn asi vārgaṃ sāhya_ayaṃ   mātʰas tatʰā_abʰiṣācaṃ tātaṃ   prajābalaḥ$vadʰyamāno mahā-dragam //**********#%$kadra janmi samahātitām /%$tat sainye matsya_atʰa sātvataparvabʰiḥ$āśvasanto 'smi sagāmūnaṃ   bʰrātur abʰraḥ tv eti prapādato$vāyānti cānanādine$r̥ṣiṇayām iha tejasam /%$śibdrāv eva dʰanaṃjayaś caivādaṃ śaṃkaroram$yās triyā saṃvidʰuṃ sarva-pālasya raṇe karmā daḥhiraṃ kanyāṃ saha rakṣās te   hatavīrvarā$tudaśrutaḥ$vijānāni vidaṃś cāpi paśvantā   vai mahā-śalam /%$bʰaktāvitā lūlo   yatʰātmanaḥ$goṣko sabʰavat   ni 
+----
+Epoch 12.5237133118 average loss = 1.28351240921
+----
+ **********#%$tatas tuṣṭyāṃ   jyamādʰasyaḥ   saṃgrāmaḥ sameha_aśva-rājayān /%$nibʰinna mr̥gayo 'tʰa tatra vācaritana   viviṃśatiḥ //**********#%$yadāra_anye   mahīm aśyunaṃ prati /%$subʰadraṃ pitr̥̄n r̥ṣisutaśramam /%$yastaḥ katʰitaiḥ   kr̥tyāni kulaśatsarājñe hiranyete pratigr̥hṇataḥ /%$pārtʰasvī jñātān sahasraśo_aṅgara_āvr̥tavān putro   vīrāhv anyud dʰarmāt   kaunteyaḥ kṣatrayor mama$ni satasya ca mu kukṣitam /%$bʰartepāvaravīīy uhastair viśabʰis trānigaś cāni   vidrāv iva vyoparādbʰitaḥ$tasmāt tvayi bʰittvā_anukravanaśvayaḥ$tato_abr 
+----
+Epoch 12.5545598964 average loss = 1.19567801857
+----
+ **********#%$no vinidʰante babʰīvaḥ   śāla_udurohinaḥ$tena jānanti māḍāram   avadʰītau caivattvo   maurārāṃtur   vārya_anīka_ibʰir bāṇair   daivaṃ havalo bʰuva /%$apajyann astramate   balabʰaur usminn avartavaḥ$na ca śukruṃ ca   kāmūrājitʰaya kiś cāsya   pratisadr̥bʰir jātmā   samakʰyau dāśīr jagʰnnā   pāṇḍupātāpaiva viṃśatyā   dīvyamāno nyopatīkṣyaś ca cāpa-ha /%$sa vyavastʰināḥ /%$tena_āvudir mahāt /%$dʰīmatāntaram$pauravīyair balo  kārṣṇiṃ samare kruddʰo   mr̥gāra_araṭyaṃ samudadʰapadaṃ   parairod anavalr̥ṣṭʰāmi rāja\ iti karasya_ā 
+----
+Epoch 12.5854064809 average loss = 1.31871950102
+----
+ **********#%$atʰaraṇim ācitdate bʰayantiṃ dattvā   matiṣvā na garte vakānaṃ   bʰāradvājaṃ ca_apy asenāś ca /%$pratinā bʰūnaḥ   pañcāśatāṃ caiva   manya hatīṃ jīvo   gr̥hāṇa tiṣṭʰati bʰāyaṃ   hate 'sya jagmu-jajñe   rājapārān manasā līkʰyam   ilakṣaṇo nirjināyubʰiḥ$nāśe pāṇḍu-sudarṇi ca //**********#%$vigr̥haṃs tumena āsīd arodʰaṃ yatʰā /%$śakrāntāraṃ   tuvā pārtʰo   mahas tava purāḥ   prayaccʰāmahādivam$sa ca trīm ātmaniḥ //**********#%$visr̥janti saṃgrāme vidātyeti kva droṇaṃ   patir bʰārata sahasrāṇi   nirjitām anavad vai dr̥syamāri 
+----
+Epoch 12.6162530654 average loss = 1.32726118279
+----
+ **********#%$saindʰavasya //**********#%$tataḥ smukan mātaya vīrau tatra putrasyaiḥ   karmacārārtulāsi raudire   manūra-dʰr̥ṣṭavānena   kāryaśaḥ payāt //**********#%$sa dānuṣasya mahātmanā /%$saṃprākṣyā   praviśas taṃ gr̥hitum ivina_etayat //**********#%$duryodʰanaṃ vr̥tāḥ   dūśamāśīasagodʰir agiśreṣṭʰa   prāṇinākṣyā samāviṣṭāṃ   drukṣastān mumācī vinihetaṃ vayaṃ bʰīṣme   rājaiḥ santa-bāṅgmāya_aputara dʰanur-haye //**********#%$kr̥taṃ yuśaṃbʰava$sa sātvatna   svandānena sapta bʰavaṃ sarve   nirvartam amuprāyane yat muruṃ pitr̥̄ṃś   ca 
+----
+Epoch 12.6470996499 average loss = 1.23219929314
+----
+ **********#%$ājātu saṃśīcdʰasya mādʰa-vimārya ca$mecanto na ca vīryavān //**********#%$tasya śamatāṃ śote   loka-pātribʰi //**********#%$vyadʰamat kasyam   ācavit tatʰā$kivya-vāsare //**********#%$evam uktvā_araṇyavai janayaṃ vai mayā_iva saṃgrāme   tāv ubʰe nāsād   vigʰotamān$naṣu-kepāṃs tattaś; vinikṣiṇya   smayaṃ tvaṃ suvrataṃ gʰr̥tavindayā //**********#%$devaraṇopate$kipra kr̥tavomnur ajihmagat$liṣṇān ūrudʰā saṃkʰye   babʰūva yatʰā visaṃbʰrānto raṇe rājan   saṃkayānāṃviṇādanam āstʰāya   sarvajātāni   samatasma gandʰam //********** 
+----
+Epoch 12.6779462344 average loss = 1.22146490693
+----
+ **********#%$viṣṇupati-bʰāditam //**********#%$tataḥ śaraiḥ //**********#%$madʰye kalpitaṃ śama_uttamam //**********#%$etadānānasa\ āśrame /%$sā tu visparāḥ$duḥśanena mahā-bʰāgaḥ   prārukalpalam$dʰvajasya vikorṣagaḥ$sa mevena samare   śrutānām abravīt /%$durmedʰagostamam$so hr̥ṣṭo purā   vārṣṇe vr̥ṣṇi-vālasya   buddʰur mahā-bāhā   dupanaḥ sapta gāyāśe   bāle yuddʰena nara-vīraṇā /%$sśandibʰir ācalcitapudraṃ hatapārvam anusrādd^dʰanaṃ rājyoṃ   bālo labʰasenebʰiḥ patāta rājaiś ca   brāhmaṇa_ātmānaṃ   gajanaiḥ prabʰurān mandadāruṇām$śara 
+----
+Epoch 12.7087928189 average loss = 1.19893779218
+----
+ **********#%$na ca yokʰyāsaṃ   kulyā yodʰās tadā dʰīraḥ   pāñcālāḥ sr̥ṣṭo   jayatā_abʰyadʰiṣṭʰitaḥ /%$āgardā vyūrolo   viśikʰair bahe mamā$srajanāṃ varam /%$tvati sunarsagāḥ$tātanaṃ dr̥ṣṭvā jajñārau   śr̥ṇumreṇendruḥ pārtʰa   samare jīvin   dʰanur-dramān /%$droṇam aliṅgo_anibʰayodʰalaḥ$tena_ukṣair   hāyārtʰaṃ dʰvajaṃ ca mahārāja   hataḥ svātān   yatʰā_asmāñ   parivārya mahācaiṣa saṃbʰr̥tamā rājann   atʰa-vedāsu puṇḍalena mahādataḥ$sarva_arccʰa viśalena pravirājātapakyāma savyataḥ$bebʰiś ca rāja*snī   raṅga_eva yuśu_amānānti bahura kʰi 
+----
+Epoch 12.7396394034 average loss = 1.11488054967
+----
+ **********#%$sādʰivrāṅgar   gajigvāḥ pala kuśe mudʰi //**********#%$br̥haṃsyasi //**********#%$sa vindānāṃ   devair ādʰyagatair madʰye vai muno vr̥taḥ //**********#%$kopasāsī nihatān jāta iva mayī yuddʰam abʰipravaḥ //**********#%$tribʰis triṣa rāmany āsīk kʰāṇyam   asmibʰināṃ kārto   mayā guṇaiḥ syan saṃsasyā   bʰāradvājasya cakūrase$astreṇa me janam$evaṃ urusyasa se 'tyaita māhās tasya   sā cānt eva tat /%$raṇe cāpy avidʰyata śasyanti   na_asti pr̥ṣṭā deva_agre   vyādaśaḥ pratyabʰarṣiṇā$te ca tīkṣṇāli tvacitrāḥ kair vadatāṃ punaḥ$at 
+----
+Epoch 12.7704859879 average loss = 1.13982801819
+----
+ **********#%$tam api te 'vajanandanam advyataḥ //**********#%$luggo vādena pradakṣiṇat$jivīkṣau mahā-rāja   saṃdʰāre krurṇo raṇe saindʰavam /%$yatʰāvr̥taḥ /%$śaravarṣapnamaḥ śr̥ṅgo   nidyamāno yudʰimat tāṃ dr̥ṣṭvā   pārtʰasya pakaiḥ saha$sa tāvan māhuṣupravedʰr̥ṣṭalivasaṃśraiṣiṣubʰir mahat /%$duryodʰana_anbʰa_adya śata-dʰīmanaḥ parvataḥ /%$tvajñaḥ śreyantuko raṇe //**********#%$tanaṃ bʰūmaṃ   tribʰir jārayitāṃ balaṃ tu radʰyasya   śailoha-śara-niśitʰena vaḥ$tac cʰannam   abʰijagāśa sihasraṃ mahīm   acargan vāṇanvitaiḥ$atʰa varaṇair ma 
+----
+Epoch 12.8013325725 average loss = 1.17082455659
+----
+ **********#%$vr̥ṣase vīṣāṃ   pāṇḍavaḥ pautʰān   saman sarvataḥ /%$svayam eṣo dahato nāgʰān   sarvañśasya vidʰāvataḥ sahateś cʰittva   dʰārtarāṣṭrasya   turagāṇāṃ kaspalaiś ca   śāttalorān sa sumahas te bʰujayuḥ śarye   tad idaṃ ca_api bʰārata$dvirāpataṃ vardʰayan$tato duḥśācāraṃ viddʰvā   bʰīmo me kāṅgva-vidʰān udyamānāś ca   kacyad dʰanur āyāṃ tataḥ$śrīṇur hi punaḥ parās   tat sva\ iva priyaḥ karṇaṃ   madadāṃś ca tadā rājam   āyuśenaḥ śasinaḥ śubʰaiḥ$mama_adudʰaiḥ /%$arṇavaśayann ivā rudʰipateni ca$tato duḥkʰāt tadāśreḥ samity abʰiḥ$ 
+----
+Epoch 12.832179157 average loss = 1.10096367085
+----
+ **********#%$śarais tāna   rakṣadvaiś ca   vīre vīuṣasūta mahādabʰiḥ$vāsubedʰatuḥ$ratʰeva ligʰava mārata$sājanaṃ sma āyupān$vyaprayanta kāvaco; prahasaḥ samara-vratraṃ   svarjān dʰarmam abʰijagena ca$ye prājñataṃ vīra me vadʰyamānaṃ tu   vivyāduḥ putrapāt purānaśīḥ   pūrvaṃ tava prahanāmasya   tāpatāṃ paramaṃ hataḥ$svanaṃ ca sainyāny anaddram irdʰa-ratʰavad dʰanuḥ /%$ājagʰāśanu$api gerha_āśī   sapta nadd^hi naḥ satyavidʰyata$duḥśāsanaḥ sūrī   putraṃ diteyasam /%$prahasya kāñcanām$tato dʰīmantu mahatā raṇe$tatʰyam utsr̥ṣṭaḥ   pañca dad 
+----
+Epoch 12.8630257415 average loss = 1.12165217471
+----
+ **********#%$tvaṃ tu me ca vai māraviḥ /%$evaṃ mūrcyape mū}raṃ   kuravārjūnau rāja-dʰaraṃ manyaṃ   jñātvā tv anāvrāttam   ekaṃ tapasāḥ śibʰaḥ$utsyasā hatam ātmānaṃ   vyākʰyā bʰalitā maṃcena saṃrattaṃ   kāla-mr̥dyate /%$praviṣṭas tatas tato dulpīrtʰe   dr̥ṣṭvā duryodʰano 'bʰavan$dʰvaja-samare rājan   sūtakatso yuyutsamā$katʰa_aprahasya mahā-bʰāge   divya\ āśī vr̥ṣṇi-vāḍinaḥ /%$nāntakeṣu minādāhi   pʰalgunasya viniśriyāḥ /%$vyayoccʰasya   standanaṃ ca śatūno mahā_iñcānāyo tumra_anīka-ratʰa-syatʰa /%$yāntas tvaro bʰura mamāyān saṃprekkṣa 
+----
+Epoch 12.893872326 average loss = 1.18979246211
+----
+ **********#%$tato mukra viśiṣṭe   tava bʰurato vr̥ṣṇibʰir āvyamukʰābʰyāṃ samūpāyana rājena   samoditaḥ /%$nararṣaḥ stʰā nirdʰaya yudʰi somabdʰiṣiṇibʰir hiyāḥ$dʰr̥ṣṭadyumnā mahā-bāhur   eṣa kuṅgināś ca te pariṃśanaḥ$prayāte yad ivāyakaḥ pārtʰe   citra_uhasaṃ nr̥paṃ pāpayan bʰadraṃ poṇḍaputro mahā-yajñaiḥ sūtakena   na bʰāryāvaṃ   karṇo dr̥ṣṭuṃ gujitair acāpadārtʰayitāṃ   lakṣṇaṃ bʰīmau nirmuktaiḥ   śainīyato mahabīlabʰiḥ$te saṃprayettuṣa$sa tatra kauravaiḥ /%$kr̥tvā nirahidaṃ tvāṃ ca sarvaśaḥ$tataḥ pārtʰentuṃ miccʰadam$dadr̥śaṃ kruddʰā 
+----
+Epoch 12.9247189105 average loss = 1.18195875931
+----
+ **********#%$tad asya bʰajakato vidʰatā te kʰale bʰaya droṇe   vyādadvat tasmai   bruvenaye //**********#%$śūrāṇām ayudʰyanta mānāya   parvata_anuhāt /%$svandu kaś cit   kṣamaḥ pārtʰaḥ   sātyakiś ca mahā-bāhur   akṣo 'stā   sātyakiṃ ca kasmitan //**********#%$itaṃ duryuddʰaṃ rājñāṃ   ratʰaśūcdʰantyaṃ kuta narāḥ senān   punar guro raṇe$yatya saindʰavam /%$aśvātna hayeṣ' hi jitvā mahāratʰāḥ$sāpu prahr̥ṣe bahva /%$āśina punar_abʰavan hetaṃ   śarair aham āvagīm$so droṇam abʰed yavasaṃgrodayady udair api guruu prabʰuḥ$muyortayāḥ$sā vāhed a 
+----
+Epoch 12.955565495 average loss = 1.22730621767
+----
+ **********#%$yedāv iva droṇen   canyunā saindʰavaṃ diṣṭvair   āhaṃ paramaṃ yena drauśya   sādʰu sātvataḥ pūrvāṃ   śara-narmayaḥ //**********#%$tasyāś cainayataś ca pāpālin mahātmanā /%$suprakīrṇena   indrasaiy eva   sarvaśātataḥ$piśataṃ nara-ratʰa_ākʰyāta-mayā nibʰyagaiś cʰādʰyāṃ vivīra_adayam //**********#%$ārpābʰyāṃ mahān /%$vāsavasvīritān aham /%$tadasśiniśāt pada niśitaiḥ śalair vr̥ṣṭivivurdʰvam acīḍayat upāvikrataḥ smr̥tam$naḥ paryeṇāy ayān āvuvrahat mahā-rāja   gandʰarvād adya madʰyantaparigreha vannasya   pañcabʰyaṃ prayānedaṃ  
+----
+Epoch 12.9864120795 average loss = 1.25037368727
+----
+ **********#%$tato yāhātaṃ   pāṇḍur dāruvum antare ca   bʰūri-praviṣṭaṃ tu   pratyavidʰyata yuddʰam abidʰata nihatāni me$vipār sa sitriṃ   dʰruṇī drumam$vyaso_abʰavattasate matdā   sātvatananyaṃ putro mahā-bʰavaḥ /%$jane yat kāñcana_agnigat parṇata_iha_eva_āhare yuddʰaṃ   bʰīmasenod amba-saṃgugāś caiva   patityārjunaṃ bʰāradvaraś ca_asi bahudʰā gūndʰam   r̥ṣayar prekṣayo 'jite   hakāśanti sātyakiḥ$nātrājāca-me tasmāt   pʰalgunaḥ //**********#%$kr̥taṃ kr̥tvā   tvaritān dvijaḥ //**********#%$atʰa śatrud asvān vr̥ko guṇñe   rādʰeyāṃś ca s 
+----
+Epoch 13.017258664 average loss = 1.13954653585
+----
+ **********#%$tatʰā mama kāmagaḥ /%$pʰalgunaṃ pūṇlam abʰidʰuṣpanyaṃ   kurugrāṇi bʰārata$tataḥ parā rājan   vimuktaṃ ca rājānaṃ   saṃnitāḥ sarve   nirbʰeṣn madʰye trasyamānako maheṣve pratijñāto   na vasmitāḥ //**********#%$putrāsyajāg cedayoḥ komala-jīna prādʰanta mahatā_iva garhāḥ sarve nirjitābʰir anyotnam annavantam ājahitā ratʰādʰayor guṇaiḥ /%$snagaiśasve   matsyā\ idaṃ tatra menuṃ mama kʰaḍgaṃ vā mugʰaiḥ$āsadyo_agraṃ   sarvataṃ yattamogam api tāsyāmi   ye 'jinīṣepa; rājabʰiḥ /%$māgravat samaneṣitau$śuṣṭam āraṃpitas tatʰā$na_abʰya 
+----
+Epoch 13.0481052485 average loss = 1.05165957212
+----
+ **********#%$viśeṣaṃ ca   rāja-bʰr̥tā kulanaṃ   pr̥tʰivyāgʰra   katʰam āhārayad riṣṇiś cidbʰāṇā$eṣa keśā ca saṃpāntaṃ   kurūṇo hi ratʰa_udāci nariṣṭaṃ ty ātac cʰaravadreṇe   nānadʰaṃ pratīvidʰaṃ tadāśārtʰaṃ   dʰr̥ṣṭadyumnavadaṃ sārgʰo   dīptaṃ drutam anivārya sumahāt   saṃgrāmaḥ kauravān eva nivabbʰauḥ$karīvam agrāṃ yāmāṃ tava staraṇāṃ yudʰi mā gāṃcīn   droṇapuprāstravaddʰetasya śāraṇām /%$gāṇḍīva sainikāḥ; te parebʰya kauravya   samāsādya saṃyuge$tanyaṃ sudāhas tu tad-nando   dvinud anyau ca caturgaḥ samare_anyaiḥ sutaḥ /%$parīpatina 
+----
+Carriage Return
+Epoch 13.0789518331 average loss = 1.28154984391
+----
+ **********#%$tataḥ karṇaḥ   kr̥tta-hastair atiṃ cakṣapatvirapo_apaśyad   vidaṃ balavatvān visarme   nardayāc cʰaraṃ; api ca tadā_atra jīvita_arbʰūtau   kālā_ośayus tadā madʰye   mādīyasenam avādinam /%$bʰārakurpr̥tʰaṃ katʰita_abʰiraṃ vivyāgʰra-varo_ayanaḥ /%$taṃ śakto hi vai pataṃ kam abʰijagravaiḥ samupālanam$sa_aśbaura mokṣyena kr̥tam   arjunena saṃprāptaṃ   rāja-śeṣāṃ babʰūvi   śira-pūrvas tu   sumūdʰam atʰa vidyanā$jigʰāṃsaupaliṇaṃ mandariṇā varaḥ$maṇḍalaśaptakaḥ$atiruddʰaḥ saṃkrepay iva_indrasya saṃjñiṣyaṃ   dʰrāttarād rakṣam iva 
+----
+Epoch 13.1097984176 average loss = 1.33897193253
+----
+ **********#%$etad vanas tatrā   na kuśyatam /%$yaḥ sa te prāp jañca   tāv aputrag ca   daivāyanena mahā-rāja   dr̥ḍʰaṃ pāṇḍave tu nyāpaś ca vehināḥ /%$cakvrāte putʰata_iti takaḥ   pragīpena rakṣati /%$gaccʰakakṣata /%$krādʰibʰiḥ //**********#%$antano_arguṃ ca mān abʰim   amarjayaḥ sarvāṇi   yat satyebʰyoḥ   paścāt prasamvartayate janam /%$abʰyagānāṃ pārtʰaḥ   se 'tikurvinām /%$sa śitakaureṣu   tatʰe tasmīt   tasyāto viṃśatyāy anto_arjunaḥ nimaneke ca   jala-pevara //**********#%$vyavastʰyad śupruṅcayen yodʰnor bahubʰir muktaiḥ śaraiḥ  
+----
+Epoch 13.1406450021 average loss = 1.38071483648
+----
+ **********#%$dr̥ṣṭam adʰādyatām //**********#%$na saṃpreṣṭ   utya cārī bʰūviṣuṃ balāj$bʰogaś ca sattama /%$mudo_adr̥hattaḥ supārtasattaram atinadʰāḥ sā bʰuvi mahā-balāḥ /%$jayaḥ krandana raṇe vākyan   putro yudʰraduryāntaṃ   sa mr̥hasya hameṣa katʰitābʰiṣajaś ca saindʰavaśyaṃ hataṃ hita-senam ivācinām$dviva te sakʰyāṃ   parityava sacācimaḥ$talayaṃ sa ca_āpaṃ ca sapta_anubʰiḥ   svairāviṣṭʰito dīrgʰa-prāpahad divam$tataḥ śarāṇa_api vidrās tava saṃpravapatī$asti bʰagrena   pitā tu śastreṇa sahāt-purva kaśpitam$samr̥ga_aṅkṣiṇā //********* 
+----
+Epoch 13.1714915866 average loss = 1.35755305588
+----
+ **********#%$yudʰi nāgagrā   nidyate saṃvikte na mānavāḥ //**********#%$nineśanān /%$na_arbʰārayanto bʰavityā_asmakin tasya patāḥ pautraṃ ca_āted aroṇanyaṃ   kʰapā kanyā   na gaṭya karmaṇā$sa nāgāḥ sanāt /%$uvasas tu tam //**********#%$pāṇḍavānāṃ tad apā\ ardʰaviś caiva   prakr̥tyān sudurjogam etad ratena ha$devir r̥ṇe stʰitam$atʰa yatra na me hetiḥ   pitaraṃ yat tu samare rājan   sarvena vivāśe   madʰura kulpate //**********#%$babʰūva dʰāmaigʰyas   takṣakuṇyajya mahā_aśvasin dahaṃ-jayāḥ //**********#%$vijeṣvāsuḥ śremasirenu mahad āhu 
+----
+Epoch 13.2023381711 average loss = 1.293185323
+----
+ **********#%$grahartanām //**********#%$sa sa ramaṃ kr̥tvā dyātān naranikṣyanti   tvayā śr̥ṇvanaṃ paśya   nāṅgitāṃ śatro   murgaḥ kr̥ta_utsahate tejasā tadāḥ$yādy api parāmi me$vasaṃ vr̥ttam   āpanned aśrauṣaḥ   śriyam abʰupyo-nas teṣu kr̥tasāṃ yajyamāne ni   dʰarmakaśyaṃ tu takṣakam //**********#%$sarvatʰā nipatitaṃ   satya-raddʰaṃ   dr̥ṣṭvā nidyā mayo vedaṃ   śrutraṃ patinī prati /%$nulbandʰiḥ parama-dʰanaṃ   nadā_ajaṃhaso tatʰā$paśyavānaś ca   gatau ca_atʰa   vyadʰyata_artʰena mahātmanaḥ /%$śaktis tataḥ pyakamāgamve   yudʰyamānaṃ t 
+----
+Epoch 13.2331847556 average loss = 1.34271733201
+----
+ **********#%$sunaṃ baśavimrāgʰe   bʰasmātena mahā-dvāma   punar ekāḥ kṣuddʰaṃ   rājāvalaṃ bruvann iṅkʰasu te   na sainyānāṃ   dʰarma_ātmā katʰayad dīpte   mr̥tase nīraḥ   śriyaṃ yatʰā$na śikʰaṇḍinaḥ$gevaś ca taṃ viśramukṣaṇaḥ$tato_āsād ivāmuke //**********#%$bʰojaś ca nāṣuṇoṅjayad iti tʰām apraṃśitas taṃ kāsyasi jige mahaiḥ$prāhiṇan śoṅgavān kaś cid   yatʰā-mukʰa-saṃgʰāṣṭi pura-pāreṣā vidiṣṇāya śoṇetv atʰa setagraḥ   puṇra-jetv atra sarvaṃ yadi tvaṃ ha   mr̥tyubʰoṣyāḥ tiṣṭʰitim$raṅgām abʰidraś cāmi saṃgʰūṣṇo   hitā śanti   taś cāpi pā 
+----
+Epoch 13.2640313401 average loss = 1.29564031684
+----
+ **********#%$vāsudivrāḥ   paśruṣur gatinau vidʰuvaṃ kurapracāti   prajñā tatʰā_eśena   gaṅgāntur bālasamajanam eyugaḥ$pradaś citūrditām$matvā yuktaṃ mahāraśaḥ$avikʰyāte 'smi sr̥ṣṇo 'bʰavat$karṇa-putra_adʰikāmukam$bʰārtaroṇāt sabʰakār garirakāḥ dvr̥ṣdarākmaṇā$nyakr̥ṣṇena dʰarma_ātmā   śiḥrayad vāgrau   śokʰayanti vikʰrātarajas tudan vīrya-saṃgʰānaḥ   subʰadraḥ su //**********#%$surasatas tān yusu kr̥paṇaḥ pratʰiryāś ca putraḥ karma te yuddʰa-dadāṅgadʰaḥ$carava\ uttragavena vr̥kodurenaś loka_āgʰasam //**********#%$mām apricoʰān iva$pakṣ 
+----
+Epoch 13.2948779246 average loss = 1.36736729944
+----
+ **********#%$evam ukte janamejayasya yatʰā nāyān   devadāś ca mahārāja   bʰavitā bubʰakṣeṇa sātyakiḥ //**********#%$bajavarṣāṇi   baddʰāyā tatra parvatam$īkṣaṇṭaḥ pratijagʰīmabʰeḥ$so_ahaṃ te vadʰyamānā tato lagʰavāhadau //**********#%$uharva_akṣas   takṣartʰam āduṣyata haram //**********#%$evam antaḥ pr̥tʰivīṃ rājañ   śakuye vedair   ahaṃ kāyā nāma vicenitaḥ$vā pādaraparvaṇām /%$sā 'bʰave gataḥ$rājñā kurmur aryasparatʰaḥ$śaṃsu nāmudʰam evādʰadaśanīkās tato dadetpiraḥ$r̥cin dyautaś ca sarve sya punaḥ punaḥ$hanta dinaḥ pramātitam //**** 
+----
+Epoch 13.3257245092 average loss = 1.35499917734
+----
+ **********#%$anūtyato 'rāvanasva rāreṇa   brahmacare ca vāsaviḥ$tatra rājā duḥśāsan rādʰeyasvā   kr̥tavyāmy aham uttamam$mām upātrāṇi   viśāṃ parṣa yāyat /%$tatʰena simva-dinīṃ dahas tvaṃ dadāma prārya tato vr̥ktā   śaktā nediṣu mamo jutyorgataś ca me rājī   nātram api saṃmancalakṣiṇaḥ$te te te_atra māmare vacaḥ //**********#%$tat tatasya kr̥taṃ tā mūrdʰan yatʰā /%$pannagantvāya dānavaḥ //**********#%$tāṃ tu mahā-talaḥ /%$tr̥tʰā mām abʰavat   putras tām   āsīn sa suramo mahābʰuja$atʰa bāhum atʰāṃs tatʰākulvā   deva yānī ca karir karyā 
+----
+Epoch 13.3565710937 average loss = 1.43607667327
+----
+ **********#%$te taṃ rājā ca bʰujagʰo garhitaṃ saṃprāptaḥ   prāviśabdʰair   asmiktvā jita-kṣaye /%$tato dāryen   varitaṃ hūrṇaḥ śajābʰir mahāskati$yakṣamūṇv evaṃ   vācare lomā   bʰūri vispʰāraṃ tava sūpy; gaccʰetitaṃ manasya sāyakam //**********#%$dʰaro dmauśaṃśaviṣīkṣiṇā$tato vārasya putra liptaḥ; pravāpas tarmeṇy ajanīyaṃ yayataṃ te manir ātmara$ānreya_akṣam uktas tatʰaiva sohataḥ /%$abʰipravarṣabʰaho rājñā   diḥśītaḥ śarāṇa pāṇam$asmādbʰuparya hato na śarīṃ cānyatʰe te viśaṃ matvaṃ   vilāśaṃ putra atʰa śarūpa naruddʰir mahat /%$śarī 
+----
+Epoch 13.3874176782 average loss = 1.28863596737
+----
+ **********#%$sohasi dvitaḥ //**********#%$tatra tān gr̥ham uddisya   ratʰa-dauṣṭadʰāḥ$ekam eṣa gandʰarvā   bʰrāgaṇendrayato viddʰi   tāvad eṣa jagatāṃ prayitaṃ mahīpajiṇyaṃ ca vivabʰuḥ saṃstʰaṃ yadā na_avarabʰr̥tau tatra   sarveṣāṃ ca caḥ; tediṣṭʰo_aham anuḍdʰayāḥ suriṣaṃ tadā /%$naryaś citra pʰalaṃ mayi$sr̥ṇe droṇaḥ   prahr̥ṣṭaṃ divyaṃ   procgʰair vindupālibʰiḥ$sa jalān karṇir minisaṃśaya$kr̥tānāṃ yo 'si manoddiktva   vistutāḥ samādʰanaḥ$tasya tād ikr̥ṣyamā anumr̥ṣcata dvījāḥ   śarmiṣṭʰā guntir hy ātau   kālena puparga-mebʰa_ardine / 
+----
+Epoch 13.4182642627 average loss = 1.25962625217
+----
+ **********#%$anyasta-nibʰā satra   rājopogamandaiḥ putras te mātiṣiṣyasi gaṭāṃ vayāṃsi ca tvāṃ ratʰāntatʰiḥ /%$tato rājas   tatʰārye sāyukatpadāḥ$vāpaṅnitaṃ mūḍʰaiḥ sa katʰas tatʰā_iva prīḍitaḥ prati$māṃsa-vā vadʰi rājñe   rājamānair asito vayon brohaṇa_āyuṣamāṇaṃ dusrardavedas te   kālekānaṃ bʰarata-r̥ṣabʰāḥ //**********#%$tato duṣyatāḥ puraṃ jīvau   jīlo gūpʰayanti vai mahārāja   kʰe lvād bʰāra mahāratʰāḥ$evam de_agʰir abʰiṣahy eṣa tatʰodrakṣate bale hanyā   vidyamānaṃ ratʰaṃ drīṣitaṃ krodʰaṃ   gūre rate //**********#%$vindarte bʰrā 
+----
+Epoch 13.4491108472 average loss = 1.26818161166
+----
+ **********#%$tato bʰālam   āsadeva praśārdramaḥ /%$nakeśunīro   yuyudʰanakṣatsaradʰāś cibʰāḥ$siṃhāne vinitsyāmi   praviśecac cʰīra-saṃdʰaṃ deva-pūrve marājāḥ pārṣuṣo hy arjunam abʰyadravat sarvān   ipi caḥ sa niṣkruyuḥ /%$lātmāse 'pañcanām$ajahrud ivāreva_āvr̥tām //**********#%$trigavann tatra   janāḥ jālate br̥hatkurparamagʰyaiva tvaratʰas tatʰābʰūtā   syavaso ratʰam$abʰyadʰyatta-mitʰān dʰr̥tamātejaṃ   ciccʰeda hiyodʰānena viprīyaṃ   tripāya sarvās tatʰe_apatataṃ lakʰyaḥ sanvi-rūjam eva viraṇy agraiḥ samadr̥śyanta   mīm esāṃ ca saha  
+----
+Epoch 13.4799574317 average loss = 1.21933738685
+----
+ **********#%$nāmayān eva to dr̥ḍʰam$īṣmā bʰārata pr̥tʰivīpālā   taraiś ca vipāḍitam$kaṅpadraś citurgʰo   guruṣugrahāḥ$teṣu deveṣu vāraṇḍiḥ   kulaipaṃ ca_abʰyapājayau$tau tapastʰavat$mahadṣiṣṭʰaḥ   saṃtappapr̥ṣṭʰaṃ śiśur vijayāsvidam$adʰyāyate_anye   parāpātinaś ca kamalakṣayam /%$ādadena tano jagrāhi   karavāñ garbamānī   kripa narmaṇaiḥ$śastrāśviṣopatam$tai rāpde tato bʰaravaḥ   śarāṇām idāmai tām aninintitaḥ /%$saṃdʰāya parivaḥpannakarṣiṇāt$bravīm$atvayaṃ pārtʰaṃ tiṣṭʰatām$tasmād r̥tur avākirat$tasya_atrā janasya me atitaṃ tāta   bʰ 
+----
+Epoch 13.5108040162 average loss = 1.27226568997
+----
+ **********#%$jvalayaṃ dr̥ḍʰam āstʰitāḥ$nāviceśvāna rāheṇa ca droṇaṃ   vidʰivyam adʰisrastyasvi kutaṃ vā śūraṃ   tribʰir bʰūta-putraḥ piṇyamānaṃ yatʰaiva ca_api ca tejasā$mamiṣā gromaḥ   saṃbʰrāntariṣṭʰār iva kālena   raudro-deva-hiṣāḥ pūrṇaśārduṣā māgram   idaṃ vacanā   viśveṣṭā lomasya titraṃ kiyate bʰaratasattamam /%$sā cāma irhati /%$dr̥ṣṭvā kr̥teḥ sarvetān   mahā-getā jvaminyām ahaṃ nr̥po yo 'haṃ   śr̥ṣṭimānir   rājanyau rāja-śvetam aho raṇe$amūrṣayantād bahu_aśyate //**********#%$karmuṇa kṣuttena vīryo 'yaṃ mahad yaṃ guṇa-ālādʰib 
+----
+Epoch 13.5416506007 average loss = 1.32089641619
+----
+ **********#%$subalavo devaraṇāṃs tatʰā /%$bāṇa_aryamāsāntarakaratpaleyagitā bʰāra   narādʰim avarmaṇyata saṃjajayāṃ grohaṃ manyase mahīm /%$ullohaṃ mahad bʰasam atʰāsyayou yauvānaṃ vīra vāsīna putraṃ virāḍʰa dantaḥ śrutaṃ dahayo gareḍ ita$tataḥ kṣyāti   jvalantam ahaṃ saṃpretis   tvarṣayoṇy ahaṃ mahā-ratʰam /%$kr̥ṣaḥ śreṣṭʰa   sa hurūṭvājam   atiṃ prātir dihy āsīd   grātelasy anukʰātvatām$tataḥ sa_akrirīt /%$āstʰīparo bʰānaṃ   tad aśvaṃ jaggnur udāli mu$tasyā_akṣa_almeny anīkāya   vivyādad br̥ṣṇau samustaiś ca   tan nāsī cʰitnvā   paś 
+----
+Epoch 13.5724971852 average loss = 1.26237743247
+----
+ **********#%$tato droṇo jana-saṃrambʰau   śrotum iccʰanti   naradevur na hi myāyā ca tatāni_ambuṣadʰāś ca tadā tats tatʰā /%$tvaṃ jñātvā   dagamātrau ca dʰvajir āgʰanegur balaṃ trīḍaiḥ sārdʰaṃ   na gaṇḍa pitr̥̄ṇāś ca suhr̥dyamāṇāṃ kuśarā nimaśsva vilakṣur tatra mahābʰajat$ucāca_abʰyavadʰiḥ sarvāḥ   sāmukʰyānāṃ parama_apmbara-niṣkʰitaḥ śaraiḥ //**********#%$kālairato 'rjuna svarat kaccʰad bʰīṣaraṇasaṃpannaṃ   droṇaṃ kaśninai kirbuhaiḥ$abʰivanti puruṣa_artʰi mahāvaraṇām eva   yatrābʰyavīryādʰinaḥ śayanane stʰitam$meṣkrakośac ca   ṣāḍitā 
+----
+Epoch 13.6033437698 average loss = 1.19011644077
+----
+ **********#%$vr̥ṣṭo balī$abʰitakṣaṃ kindra ratʰaṃ pravipeda bābʰausavasra-urakasya ca dʰvajaḥ$yad vr̥kṣau prabʰo /%$saṃrambʰodʰa pitriram$na cāye_avyartʰam avārayat$krodʰa-rāpaś ca   yatʰā śopair   anvayaṃ cʰādravato māyus   tac cān brahma   mr̥kyasī pāṇḍavaṃ caritaṃ tad idaṃ mattaṃ sadā caiva   jajñire 'bʰmeṣu samartʰaye śakraṃ   dvipepānāṃ   yakṣair eṣa lakṣame //**********#%$tasyīṃ mātra samare viddʰvā muhiṃ śokaṃ   yajño droṇam akambʰyaḥ parasya saḥ$tataḥ kṣeṣa-gavadʰaḥ śaktiś caiva lakṣṭaiḥ samupādravaiḥ$tatʰā matsyā_ahaṃ   na ca 
+----
+Epoch 13.6341903543 average loss = 1.19934679282
+----
+ **********#%$tataḥ karṇe   vavyakṣaṃ māmaudiha mokṣyate janmakam //**********#%$nādam asyad abʰāvat tat sainyena sivr̥ṇaṃ cakirataḥ savita-saṃtena-mahā_iṣvāsaṃ   tava te_abravīd dasti-samanvitāḥ /%$giropa iti māṃ yokʰaṃ   pitr̥gʰo na kr̥ṣṇa yudā-manāḥ /%$drumuṃ yatʰā$hy ādayyau smān evam utpattʰān   bʰīmo māsyam eva dʰanuṣa ratʰaṃ pratyiṣṭʰan   sarvam āstir atra me$yas te 'stu vikramaḥ /%$gajena syanti   gadām ugraiḥ kr̥ṣṇa   drauśaṃ patri-śaca_aśicān /%$negurā vāsudevo mahā-ratʰam āstʰe mīrṣṭe   kr̥tʰeṣv anyair   duryodʰanaṃ prāptaṃ  
+----
+Epoch 13.6650369388 average loss = 1.10105798268
+----
+ **********#%$sa vāstraim iva_ahaṃ śara-saṃbʰinnadantaḥ śilo bʰartarasya_iti   vr̥traiṣeṇa sudindrāṇe   praśraivastair   anvā-sagra-patombāmukaukṣena viśāṃ pate //**********#%$pʰalgune samuttaya bʰayāś catrajñaṃ smayann iva$saṃpayeya sātyakis tasya   citra-vehinī //**********#%$tam upattaram$tam avadʰet tad-apr̥tn //**********#%$cacistʰā hiniṣyāniḥ   petur evaṃ   sa behāny anetasya   candrāṇāṃ mahāpuraḥ$aṣakṣiṇāṃ raṇe //**********#%$te bʰāradvata vidaṃ prāpniṃ   keṣuṇaṃ codayo bʰagā hr̥ṣṭva saumanasam /%$āśvāsayata māriṣa$na dyude kāsy 
+----
+Epoch 13.6958835233 average loss = 1.17243640864
+----
+ **********#%$tāṃhāny eva saha devayaḥ /%$sā driṣṭaḥ   kāvyavas tvāṃś ca manīpatiḥ$aciccʰidena putrakam$uparaśveṣas   tvavīrāṇām   āyuṣato 'jñāra vr̥kṣābʰalac cʰinnaiḥ   kāla-vanta\ iva madbʰuta karma śaradam udbardʰaṃ   śarakrāntau   vyadʰamat sakṣayataḥ krataḥ$yādr̥-kʰuma-ilavan mukʰam idbʰitam$jāgatāṃ śūraḥ   kimbau ca nidraṃ na bʰagravat somaḥ   kāpamīṃ tadā /%$na smr̥tya   drorādʰayas te mūrtʰe   jānuḥśpārtʰo   guru-rājan bubʰau triyodʰanaḥ$tumulaṃ prati$pratyavadʰayaṃ tatʰā godʰr̥-cara_avahat sāyakān rādʰīyām   upāccʰadaiḥ sainye 
+----
+Epoch 13.7267301078 average loss = 1.14180446315
+----
+ **********#%$nānādena pāṇḍavāḥ /%$uddʰito_abʰilulam acavaratʰās tatra saibʰādayau /%$saṃgʰayaḥ //**********#%$tatʰā bʰayaṃ prāhutor ali$vyudrayātm utv ahaḥ$bahu-vanyāṃ tatʰā sarvaṃ   tatra tvaṃ varaṃ bʰīmagena kanyā tu ratʰo vavaniśravyena sannasya   kālavajñjālābʰipannīkaṃ   sa naśebʰiṣaḥ$anubʰyayan$tena vege balavatāḥ   saṃgrāme pitur midʰānitaiḥ$meditī sudayuḥ śaraiḥ /%$bʰirtalānāṃ ca sānakāt$sa śararṣabʰaḥ$nirvitya mahā-ratʰaḥ /%$abravīd rājā   vr̥tavairaṃ   pitaras tatʰā //**********#%$tatas tv asaṃbʰrānto   bahubʰir nipitiṃs tu  
+----
+Epoch 13.7575766923 average loss = 1.07843317443
+----
+ **********#%$pratihanya mumitas tu śaravarṣiṇau /%$kurarāṇāṃ ca   pāṇḍuvākāro varīyaṃ bʰlānaṃ   droṇanantvaṃ mahā_āhave /%$nāntasya hi vai bʰīmasenaḥ supaṅkṣāya ratʰināṃ yuddʰāmi   tālo vyāvas tadā nāśamasā karṇavaś ca bahva-śataṃ maṇaṃ graha$atʰa śastravat sarvam eva ca$vera mahyair api vā //**********#%$niyuṣṭatuṃ gatāḥ śūraśakrṇena   prayudvātas tu vākitaḥ //**********#%$gr̥tyor iva ca śāśo; jajñatadʰvaṃ karmāṇi   caturṣaṃ tada-kaṇṭe hr̥dāya bʰāgaṃsā   vr̥ṇe śibraṃ cāminaṃ karam$anmaugrāho   vīreṇa_iva kumurūṇām iva sasyaṃ ca baddʰ 
+----
+Epoch 13.7884232768 average loss = 1.13350416529
+----
+ **********#%$dr̥ṣṭvā sahitāṃ   jayadāraś ca   vipatʰita_abʰākṣaraṃ śūraṃ   krurṇinā prokṣyamāṇā mahāvr̥te$yo vairahya samare droṇaṃ   vidravantārano rājaṃs   tataḥ paramāriṇam$somam amāḍayat$saindʰavreṣu prayācārahirakṣamaḥ /%$dʰanur bʰīmase yānaṃ   pāñcālāḥ kāla-karpaṇam //**********#%$taṃ te ca_abʰisappurāṃś cʰittvā   bʰīmasenoṃ   cʰādayām āsa bʰaviṣyati niśitair   antarikṣīṃ mama_ācagamātuṣṭaḥ   sādʰu gubʰiś ca dviyām$ātatra tatra tapāḥ parvañja   nirasya ca hiṃpalena_iva   rājan guṇān /%$tāṃg duryodʰano bʰraśītaiḥ śarān //******** 
+----
+Epoch 13.8192698613 average loss = 1.14297125387
+----
+ **********#%$cānyad dʰīmataḥ /%$niragnāma_iva praśāsyāmi   puṅgʰaṃ dʰanuṣyāṃsyati na karṇeṇa   tat karṇasaṃkaśya   gr̥hṇann antānaṃ tu te mūrdʰano mahābobʰayan kaścāt   kṣame_artʰaṃ dʰanaṃjayaḥ$yam avaśāradaḥ$abʰyahur dʰanaṃjayo$ jādr̥ś ca hato droṇaṃ   catarpas tu   pūrvaṃ vāritsmre suvyakr̥tāṃ varam$divā śaryāṃ ca   patitān bahu$vivyadʰānaṅce   pāṇḍur āstʰyati saṃyuśutsāritaparvāṇya   na_astʰāḥ smasann iva samastabaiḥ //**********#%$te paraṃ cʰittuṃ kāyeśa   drumādʰāmbaddʰas   tāvakāmitaṃ saṃkʰye   śara-vegoratya ca_abʰnyat bahu-vid 
+----
+Epoch 13.8501164459 average loss = 1.18750580204
+----
+ **********#%$rutur vargamahīn yuddʰam anuvrādʰe   pramadʰantaṃ yuddʰaṃ   yuddʰam aśvena   itu madīyani$kiṃ putraḥ   kārṣṇipaic cʰarauś   cʰadvapaḥcāli   karavīrbʰāḥ tajñaḥ sarve saindʰavasya śaṅkʰair ca vikyanta   dr̥ṣṭʰā vāryamāṇaiḥ sa vādisa //**********#%$apy epa yāny anyonyaḥ samare grāmaṃ   kr̥tavarmā tu jotetuṃ   śritam āyeṣy abʰītīḍ himayā vare śūraḥ   saubʰadreṇau   sarvabʰojnas trāstʰavadan tatʰā rājan   sarvair ayaṃ prāpuṃs tatʰā$bāṇān karṇasanyaḥ pratāpavān$manda-śūraḥ saṃbʰramūrāṃditāṃ$duddʰanviṣā lūlān   vidarka_āśīviṣad  
+----
+Epoch 13.8809630304 average loss = 1.23174625397
+----
+ **********#%$te hy asyā   teṣāṃ veda-gandʰāro   hatas taṃ nitram aparājitaḥ$śarair dʰaraṇīyate$mokṣṇyāś ca vīraṇāgārdiraḥ śatasahasraiś ca   nirmikṣī śitaiḥ /%$nānakasyaitam   aihated bʰīās tu   pāṇḍuḥ sadʰve sapāsaha /%$cakṣuṇāṃ jala-putrāṇāṃ   bʰrātr̥̄ṇāṃ tataḥ karṇa_udait pūrṇavaivā   śiruḥ pārtʰa   tatʰā vr̥tdena sapta-śrīṇān tvaṃ kurapāraṇe$saunādayan kṣutvā muhāca śara_āśī vīraiḥ   kruddʰo dāhar mahāreja   saṃdʰaraṃ tam evam upusaṃkṣyantāḥ parātrāpya   prāpto vātmane śarān$taś ca_asya viśamasūryeṇa   kurutaḥ karṇaḥ punaḥ /%$nāye 
+----
+Epoch 13.9118096149 average loss = 1.19779928541
+----
+ **********#%$diśaḥ karṇā   pāṇḍavāya daḥ kārṣuṇāṃ jutʰānasya   pʰelcur niśitaiḥ śara_an   dʰvajam āsvīya sainyaṃ nala-śata_utkacaiḥ   śreṣṭʰaṃ vivastʰātmajagʰnaḥ śatena ha purā śoka-saṃnibʰas takṣako vāyur   dāruke bʰrātarivadanaḥ   paśyatāpa mahābalaḥ$turogʰa-hatāś ca_anyūn śatloka   vyāyasantv anyanād idam aptati$jagʰāna sakra\ya mautajaḥ /%$yūyair nihato vr̥tri-bʰaya_ācaravaiḥ samare lāmbarādʰibān$bʰīmasenam utsitāḥ //**********#%$tālakānāṃ varadaṃś caiva   mahā_udayām etat   paśya pratāmicʰan mahattā buddʰyanda mahiṣakarpalaḥ /%$s 
+----
+Epoch 13.9426561994 average loss = 1.1470764879
+----
+ **********#%$tasya senāṃ sma   kupto 'si mitʰān pārtʰiṃ   bʰrātur atʰo vaktrāntaparvabʰiḥ$dʰanaṃjaya bālena   manas te kovaroṇam avargʰantas tvādi rāṭān /%$utsāhasraḥ   samañjajñam   agaiś ca mahārāja   pāñcalāṃś ca saptabʰiḥ$sadr̥ṇam udāvadantaś ca   parāppatir ikambutam$māmarāṇi vā$dvirodʰa mahāratʰaḥ$atʰa-deṣe balavān   rājā sudarkañ pātʰyamānasya tava lakṣaṇe$abʰyadravan satyavartanta   pratyugtā_aruṇita rājaṃs tu sarva tasya rājan garuḍur yo dʰanaṃ dadau //**********#%$aśvāṃs tu parākramya   mayā saṃnandanaṃ sarvadʰanvāsaspr̥ccʰa 
+----
+Epoch 13.9735027839 average loss = 1.09979218733
+----
+ **********#%$atyadikʰaṃ tānyaṃ   vitilakṣaṇau /%$kr̥tvā hi lārgataḥ$adʰyayatsaś ca   pratyurgodbʰin sātyako durmadau /%$pitr̥gagac cʰātato_asaraṇā   vivardʰate //**********#%$br̥hadbame /%$duryodʰanam arurdʰa-yūya-vīryam   āvr̥dʰāni conidʰavāt bʰārata so 'tʰa dr̥ṣṭvā jr̥tyavidīyas tāvad vāsudarśata paśāṃkavaḥ /%$bʰāratavān bʰārata parvabʰiḥ$kauraveyāninaḥ puraso rājaṃs   tataḥ kroḍʰa-dardʰaṃ samudevacair atibʰr̥śaṃ ca sahasā   tārṣurasā candʰanās sarvavāraṇāyaś ca mahadr̥śya bahubʰiḥ kr̥cakāraupuṃkalo vārda tadasā_adʰipaṃ prājñi   tva 
+----
+Carriage Return
+Epoch 14.0043493684 average loss = 1.18490452337
+----
+ **********#%$yadā dʰvanaḥ //**********#%$vividʰāndʰave śanti   rurābʰiḥ sudariṣyati mukʰāvr̥to bʰr̥śataṃ hannur mr̥ga-bʰūtaṃ mahat-tasya mahātmā; sahasrāṇi   pāṇḍavān iśo niyute varaḥ$yubʰa kradā$vr̥ddān ninedī ratʰānām antarigrāṃ   śrutukr̥ṣṭau mahārāja   niyugānam iccʰāmy ahaṃ matrūja vadʰyam anāyāśa   tāvadāḥ kopasena have$druṣṭandyo 'jitāṃvanā {l}$dvā lyāṃ dʰarmaś ca meṣyasi //**********#%$vayāhr̥te /%$anebʰās tān sabʰās tadā$kau cʰittr̥jya bʰāratam$vr̥pa-vīra ratʰaṃ kr̥tsnāṃ   kr̥tān mr̥tyud r̥tu parā mahā-ratʰaḥ //**********#%$y 
+----
+Epoch 14.0351959529 average loss = 1.32375895643
+----
+ **********#%$vajya-bʰedya kau saṃprāpya   punar avyame //**********#%$karṇo yuddʰaṃ   tvad uttamam /%$yadroc ca tatʰā_atiritaṃ dr̥śyase   vāhinī ca_api ca mahābālo   jagam apreka tvaṃ keśiṃ putyamāneṣu   nanaśaṃ karma daṃsya iti mādane$//**********#%$tat saptabʰihasya   sārdʰipe_asmiv ca tvāṃ varūyasam$dannam ācārya triyante guroharṣanvandanasmāni vicitra_āśrama_antakam /%$pratipaicaraṃ   yat tat tatʰā drūṇam atʰa niṣapūḍiyaḥ$ādit dʰārair aśvarśayān sa kr̥tena ca$anyāṃ hituṃ vākyam   āśvāsanaḥ śiṣayo yūvi saṃvidʰā$tad asti śaryate /%$ 
+----
+Epoch 14.0660425374 average loss = 1.3454401226
+----
+ **********#%$tato 'ndapadyata /%$vivāsasuḥ /%$agn iddʰair bʰrātā   yatʰā_apraharaṇī tada //**********#%$tato dahat$tato viṣṇīṃ   sa kauravaṃ dr̥ṣṭvā   bʰaviṣyati$ecair iva dʰanvinā$vivīryas te   droṇa pravbāgʰyam aciccʰid adumpayam$vibʰagdʰurājasya saṃyuge /%$iti kr̥ṣṇa dʰana_ahare   pitr̥-bʰaja-daṃṣṭra_āśramā-sūram uttama //**********#%$āstaṃ vadʰacitra viddʰvātās tataḥ kr̥tilohayāḥ //**********#%$sa teṣu yudʰi tad vajanapūlavair bʰijnasutau mama samya sahasraiś ca   nāḍayanvicoḥ$yo my utra punaḥ punar   nirjagās tatʰā /%$tvaritaṃ pā 
+----
+Epoch 14.096889122 average loss = 1.39835523379
+----
+ **********#%$te hīmetmānaṃ givair bʰagānāṃ mahātmānaṃ   sukʰa_apantakāṃ jīmaṃ   kurūṇena ca_ākena samuḥśadya cetitā_anvānaḥ   kart pukyamānā mahābāle   sāhitena tavodʰanam$saṃhr̥ṣṭī api titiḥ somakau puñcoditāḥ sūryam apijayam eva iti bʰūginaḥ$tato duryodʰana kiṃcit   tasmād api parame_atʰa sartapurogamam$sa śaṃsena   prabʰud ivābʰagaticcʰrataḥ /%$rurus tadā$umāha-nakalim atʰo me_ānīpa   bʰāryāṃ pr̥tʰivīṃ caiva puśalaṃ pratipadyeta   nīptayotyayaḥ kumārataḥ /%$tan deja_ānr̥tyaṃ   vijagʰniḥ śatreṣa$dītma_artʰyaṃ bʰavatāṃ yad bravīmi dʰ 
+----
+Epoch 14.1277357065 average loss = 1.29347423816
+----
+ **********#%$mūrdʰasya bʰārata$saṃdurkāṃs tudravanto mahātmanaḥ$tataḥ kāma-vīravaḥ //**********#%$draupadīyaṃ ca   madra-cakṣantāḥ   somakṣur dʰarmaputrāyāṃ   bʰāryāmy artʰena   janiṣyati sa\ enayām$tam āścakam$kauntayo madʰye   kiṃ tasya buddʰir muktan   kalṭinaḥ saḥbʰavan mate sapte nipatitas   tasmin paścān   bʰairasmā bʰaviṣyati /%$ity uktvā pare gaṅgamāṃs tava; teṣa pañcatā; sādʰv etād dvijāti kalyapārādmubʰir vr̥ttam   aṅkule jalato jalamodʰani$sa cʰreṇv iti bʰūyam iva pāradʰam upadr̥śyate /%$aśayān asyan naḥ   kālyam akārtamye  
+----
+Epoch 14.158582291 average loss = 1.31558764076
+----
+ **********#%$tasya bʰāryā_asa punare 'py upacakrītaḥ satāṃ vidʰīyatam /%$uddikās tūrṇam   asya nakīya-saṃtaptān   pitā tvaṃ dʰarmadarmāṇīm   āvāgyamātayat$tatas takṣakad bʰayavartatem$śara-vrotam   iti tvaṃ pārastaṃ   papyabʰiś ca_aryanās tatra sūtanam /%$na taṃ dvijaḥ$madʰayuś ca_atʰa   manyeṣv ito yātpaṃ   matibʰāradāḥ$sa bʰūrir niṃśityā   vibʰuvaś cairaṃ   bahuvo naneṣvāsu   pārihyun dʰarme   vajra-sapte vavyano   mama tat kr̥te //**********#%$asaṃsmād ayupamānvupaḥ$kambarūṇa vacanaṃ   mātyam ārte pratijagate nātāḥ   sa nanyeṣv r̥ṣ 
+----
+Epoch 14.1894288755 average loss = 1.31724775422
+----
+ **********#%$parisīrye trāṃ varuṇaṃ rājā   rājaukasya ca /%$sa tāsya dʰarmavīkṣam //**********#%$krūṣālā caiva te bʰarata-r̥ṣibʰaḥ /%$utsyājitaṃ punaḥ kālena cāraṇāḥ$taṃ duryodʰano_atra gataḥ satyabʰvān   saptasre putras   tāṃ trāśayan paknāntavān rudaiḥ samapatat sva pūrvaṃ kāmaro yaṃ nādayam īnānya   smarann itā hitum arhati //**********#%$yadāśrośamād api$āharaḥ svat pannagehu_agniḥ saninī katvā   saṃtātakaṃ nanagalaṃ lakṣyamoṇe   kampāt tasya lukṣo_atʰa   murucedʰaḥ samanāpritaḥ$vārayor iva //**********#%$asurasardʰodagʰas tatʰāḥ$ 
+----
+Epoch 14.22027546 average loss = 1.29940274787
+----
+ **********#%$yadā saṃgatāvija$bʰārgavam acyarena mahābalav /%$bāhvaryase bʰūta_upuvilaḥ saṃnigavottame //**********#%$rukmānate yodʰān   adʰarmajñad   yatʰā śrutvā   bʰāgamānne samāgata$murogam ariṃgamā$sā duṣkarpacasa bāṇa-cayān ita$tat sainyam anubdʰva tiṣṭʰate vindān sarvān   samuttram anavivrāti   gadcare sāhī   tapo drauṇaṃ parīkramaḥ$śatamo_asmās te   devavaṃstriyam āpanaḥ$dʰarmityā me prāṇakṣiprāsaraś ca ha$tena krodʰanaḥ kruddʰāḥ   śara-saṃkrudaiḥ$udāgayair bʰava kurvāṇi   pradrāś cī   parvaśau te pratipādr̥hen na hi /%$munic  
+----
+Epoch 14.2511220445 average loss = 1.37696452343
+----
+ **********#%$arjunāḥ pratāpavān /%$nīrdayantā mama kaṅhiṇo hy annuvair vāhi   puraṃdvayaḥ$uhastakaṃ śundraṃ   na_etar jr̥ttʰvā dr̥ṣṭo na_ocʰa_intur mahīrṣibʰiḥ$pāntiś ca kurupuṃ yasya   jarāṃ śrenur bʰaitā vai   bʰagavān bariṃkaraṃ kr̥ttum urāja_aupābʰr̥go   devāś ca jinur gadāḥ //**********#%$saṃśrutrā tasya$vacyate 'smin gattā ca_ebad vidurjitam$patvā tu vāsude$samaptābʰiś ca bahunu   yat tvaṃ tpatitāṃ teṣāṃ   yau viṣṇaṃ   deva buddʰinām$jātmaujasyena svacān api //**********#%$sā tasya tāṃ putrasarā vyatraṃ   nakīra dʰarmajñas   tur 
+----
+Epoch 14.281968629 average loss = 1.39403209579
+----
+ **********#%$bʰāvādukṣam iva tvaṃ śuṣyaṃ rodʰād epān upādʰanaḥ$padam ekaṃ   śakram āgata\ ity agrata_aganaḥ pūrāḥ   sahitaṃ vy adajanti putraḥ prītya-kalpavāṃ yeva   bʰr̥śaṃ param //**********#%$katʰyātā_ardʰe lokās tu gaccʰatim //**********#%$mārtam egam eva yad gṣatīnaṃ   gayo 'rha bʰavān iti /%$aparī gatuḥ //**********#%$yat tvaṃ hi hatyā sa   dahatʰe potreṣu vidʰāna; dr̥ṣṭvā vr̥to droṇa_anupari-dr̥ṣṭʰā nāḍayann ita prajāḥ sarve   kr̥pad akakṣaya mayā pātiḥ   sahasa_arujata mahīmane$janāya ropa-śreya-gaṇān vilayoṃ vajñajātaṇam$gacc 
+----
+Epoch 14.3128152135 average loss = 1.3412779206
+----
+ **********#%$sa ca_aprayate te na pratʰamotrayata jayaṃ śutapoḥjanaḥ$tatas tasyā punur vāneḥ$aśvattvāt kāpayām āsa   pātim etān bʰaviṣyati$yadi vīmagʰānn aditaḥ sindʰa-sutamāya; kupatr̥ṇyoṣitaḥ pārtʰivam //**********#%$yam atiritam aṅgaiḥ śarmitaṃ yatvā te   vāsudevam uṣvapcāca me viṣīyati //**********#%$brāhmaṇan mayā_asyā   mo māṃ kāyastu nardake$tad eva_udvaiś ca   vasaṃ jānavaty etad vasany atī$ratʰinā rājaṃs tvartaiś ca tatʰā yāsya neni tattʰā-sattvā vidyati rājyamānāḥ saṃyuge pāṇḍavā_adʰipatas tūjasa hr̥ṣṭe   pāśadānāṃ tataḥ sad 
+----
+Epoch 14.343661798 average loss = 1.24124340272
+----
+ **********#%$sarva-dr̥cyāme   mitʰānvabʰir bʰūmiṃ tu gatvā   yatraiva samare   maṇijāśāṃsa   vartamānam abʰavat   saṃ rājan viśva-bʰūte ca bʰāṣṭaraḥ /%$tomānaṃ punaḥ /%$tato bāhubʰir mayā cāpi dʰarmeṇa   taṃ tatʰā //**********#%$viviccʰudvān   sarva-bʰūta-gatāṃ   raṇyāṃ śakrasenur ituroharaḥ$sadavāsāritiṃ rājan   dur-bʰavīt kālaḥ   kruddʰaṃ haradāriṇau$dʰarmaś ca bahubʰiḥ suraṇebʰrumaḥ$carāya dīṣīṣa   prāhāsv r̥ṣuṃ janayam ābʰagaṃ mahad dʰarma-harā hitaḥ //**********#%$kālyāṇām atʰa parāṃ vratamānūraṃ   yatʰā yoktim arimyaṃ sarvālam a 
+----
+Epoch 14.3745083826 average loss = 1.24588905489
+----
+ **********#%$atʰārjinaṃ vapu //**********#%$dʰr̥tarāṣu mahārāja   sameṣe sa sarva_egaṃ drute /%$jahimārāṃś ca   pitā boddʰaṃ   tad brahmas   tatʰete śipaś caiva   raṇe vai ratʰaskʰyānaṃ   dviṣam adya raṇe pāṇḍavaṃ tataḥ //**********#%$tataḥ putro_arjuno hi rājyabʰākena menaka /%$śrutur aśvitāḥ //**********#%$tatʰāntare$śokʰan pratyavīryata$kāsya putrākṣa sūrdʰabʰir bʰārata kr̥ṣṇa_abʰavat //**********#%$tvayā samavatyaś caiva   kr̥te tūrṇaṃ   cyutānām ājagʰān /%$evambaraṃ kṣitām //**********#%$tato drauṇiḥ putraṃ   śara_ārīr dyutim /%$ 
+----
+Epoch 14.4053549671 average loss = 1.23100700212
+----
+ **********#%$kālān saṃsakto buddʰiḥ   kuṇḍa sāmantam   ananta\ iva dāsy asva punaḥ śrutāḥ$abudʰaḥ kartir abʰujambʰūtā;   sabʰiś caiva   saṃprāpto 'bʰimukʰāḥ //**********#%$navasya yadura_arśyo_apaṃ kāś ca sindʰuḥ$śadaiś caiva   ratʰābravīt$to  viśiṣṭaṃ vacanāt //**********#%$viratʰī patiṃkāśāḥ   prītivo_āvr̥tvaṃ   siṃhācnāyā vāyamecana$saṃrajja ca rājan; raṇe pādānāṃ   kṣatr̥dʰakura ṭʰanakāya_arjino jyetiṃ   saṃbabdʰūḥ kruddʰaḥ kʰamgamanaṃ suśaraṃ   vadʰa_ādityaḥ   prād anyaiḥ   pūpātāviṣī sainyā   śyusnarjann asmān anye 'syinihataḥ   
+----
+Epoch 14.4362015516 average loss = 1.24557402205
+----
+ **********#%$ekasya_upamam //**********#%$yadi dʰanvinā$anāstī-preta-vravaṇa-potaṃ mahā-śukṣavān /%$dānaṃ vibādʰi nāyatāḥ /%$arjuno vā pata_ibage vīḍām   ekām eṣd bʰaviṣyasi nadaḥ sutaḥ //**********#%$ālikṣir balaṃ kulaṃ bʰuvrade śrutvā petāriṃ   bāṇaṃ bʰaṣmāṃs   teṣāṃ hiragaim ādadam ācitīr vādyam   anugitāvidʰāḥ$yājñūyām āsa paśyāmi   tāvad hv ajajayor gʰore /%$nikr̥tta mahātmanaḥ //**********#%$sa vayaḥ sa parikr̥taḥ śimā$so_abʰibāja\ iti kṣiṣṭān   patitānāṃ ca   sakʰāyaṃ damāsa satataṃ tāṃ puroṣāv aviśarma śara-vr̥ttaṃ   śarajājvi 
+----
+Epoch 14.4670481361 average loss = 1.28737066603
+----
+ **********#%$prādāt te carito nr̥paḥ$tataḥ kurmaiḥ   pukramyagauḥ //**********#%$sa karṇe vai   tām acālavad ādityaḥ   sainyam hayatām anabʰad yatamācakṣva saṃgrāme   dravaṇi -lokiṣaḥ /%$dojo 'dʰipatir   abʰidau yudʰamā satyaṃ   karṇasyedaṃ brāhmarov āstʰāya   pracirān dr̥ṣṭvā   pratyudgʰayeṣu ca$keśavaṃ lūta-patīkaṃ vai   sahasraśaḥ$uktyā tu devā virāya mahābāhuḥ   paritīu kr̥ta-varmā nipatyaṃ vikrurayitā   tusahaḥ kanamaṃ cāpi   śaravāryi yudʰiṣṭʰiraḥ$kṣatni-lokāḥ siṃhanaḥ /%$rutas tai smr̥tasya ca mo_agaccʰat   sahairāḥ kipa sātyak 
+----
+Epoch 14.4978947206 average loss = 1.2994767319
+----
+ **********#%$adʰarme dʰanvinau$kauṇivāśvāsya   bahūn sainyaṃ   nainaṃ padro mama prakāja sohitas tapaḥ //**********#%$āgāṃ śaptaṃ   vegāv asminn atavayad   balam adʰiṣṭʰiraḥ /%$svastʰā belo varkṣitum /%$asāvatavyac hridaś caiva   vakṣaṃ punarga_ahaṃ   vardatena vikrāntā   na ca gāṃśitaḥ //**********#%$pariṣṭrayena mahārāja   samattadam /%$gadāṇi mālā mahā-ratʰam /%$pratisatyor gandʰa-dvita\ ottʰayatam udaram adʰibʰiparaśrīye   tava nāgna-vokayāḥ //**********#%$yausāvaraṃ pārtʰasa sāvaram āvrajeyaṃ   sa bʰindrūya dʰvajaṃ ca bʰūriśravān 
+----
+Epoch 14.5287413051 average loss = 1.19705555534
+----
+ **********#%$iṣe gandʰaṃ   tapośārāṃś karṇā vibravīt //**********#%$arjuyasya va //**********#%$tān vai svayam //**********#%$taṃ śrutvā   garjayām āsa   vibarkanī //**********#%$sa iti tāṃ dr̥ṣṭvā   brahmaṇ-placāmāṇam uḍavaṃ   dr̥ṣṭvāntar   yuyote ratʰāśataṃ jñāyā   vivitna_uśalaṃ te_akʰa-sattamaḥ //**********#%$tataḥ purā sakʰye   gaja-slanā   vāminā ca mahārāja   yatʰā_upaśāradat //**********#%$tato gatuḥ$etaḥ smr̥tāḥ$dr̥ṣṭvā dʰaneṣa pārṣṇi-vārayāḥ //**********#%$sa āyur udyaḥ śataśo_atʰa saha ratʰinām bʰārtarīkr̥tām$bʰārśā jamahāḥ 
+----
+Epoch 14.5595878896 average loss = 1.17944161153
+----
+ **********#%$ubʰnena yacayān   putriṃ nihataṃ sakyān   kuru-rākṣasa-tejaṃs tāḍayi nirāvyugāḥ$dadraśujāḥ śūrāḥ   kirīṭināni sanādanti vīrāṇāṃ   trāniṣam anustrāpya pāṇḍu-purago ratʰas devarīkṣā   nāśakiṃ kr̥tvā   droṇaṃ tāv   uhāsunuḥ śara-vanaṣṭʰas tribʰiḥ sārdʰam   asadr̥ḍʰaṃ bʰarātkanaḥ$gandʰāra svarpinaḥ kurugaḥ   prahapann iva$tāntaṃ janārdana /%$mr̥ddʰaś ca   nr̥patāṃ dvijugālamānāḥ svanair aśvaimimat parvati tad dr̥ṣṭvā   tava sutaṃ   pannagr̥hya viviśvan parasrahaḥ$vyaḍʰaṃtas tava bʰallubʰiḥ śaktiṃ he gajair hr̥ṣṭaḥ   kṣutriyāṇ 
+----
+Epoch 14.5904344741 average loss = 1.12609527349
+----
+ **********#%$jagʰīnaraṃ varāyabʰratīṃ tad dadruvaṃ raṇe //**********#%$tato droṇas tataḥ smān   asarvadʰarmāṇaṃ ca sūturabʰir vinda-muketa ca varāya_artʰaṃ   satyavaraḥ samulvaram$vyaktyānavad raṇe ca_āśu   tasya sahu-ratʰaḥ smarena nimitaḥ sahasā śrutam /%$rājñā ratʰa-sahasrāṇi   mārāde jayadratʰaiḥ //**********#%$varṣeṇa hate mahā-rāja   nīne varma-ratʰa_uttama //**********#%$sa vacanaṃ kāraṇam //**********#%$tau tatʰā vadʰe /%$rāmebʰyaṃ kaunteyaṃ   balavayo rajase saha /%$cistviṣaṃ śara-varṣeṇa   nāsi deveśān   rājānaṃ jiva_artʰayu 
+----
+Epoch 14.6212810587 average loss = 1.15427340508
+----
+ **********#%$pramadyate yā svaṃ raśmeṇāṃ   karṇo vartʰayām itā vyātr̥ccʰan   gʰr̥ṇāho mahābāhaḥ   pūrva_ayudʰyate /%$mantamāto vai   raṇe vāsudevasya   mama-cakrau ratʰa-tattaiḥ sarvavartanam /%$prativivyāha nūśaṃ tava vidvāptaṃ   dʰanuṣi hi vinuktalaṃ varme   viṣṇānīkaś ca mahātmānaṃ   parama-pr̥ccʰasi saindʰavajyate$so 'yaṃ tāṃ   gātalām invatā narāḥ$rakṣo dadʰyeyaṃ   rājñaḥ śalyanur iva druvyantau rapen rājan   gāho mahītvanam$pradyataḥ svayam //**********#%$teṣu ca kurābʰyāś cābravīd iva saṃprāpta   putraṃ jaya_artʰaṃ tvāṃ mahārat 
+----
+Epoch 14.6521276432 average loss = 1.1195208261
+----
+ **********#%$tat sādʰayam āpi ito niṣude prāpkaḥ śibodʰa cikṣaputraiḥ sahe$raṇī kʰaṇḍaṃ samr̥dbʰavras tvarita-śakais tyakiśanye jitoḥ sahasā tumule yuddʰaṃ   bʰāradvājena mahā_asvastv ātmanā ratʰināṃ dr̥ṣṭvā sadaśvabʰam$sāmvare samāgārhayiṣṭʰiraḥ /%$pārdan madʰye   gajāyand varahastanam ākapnumadivo 'strabʰrāya kʰaḍmu parākrame //**********#%$tasya bāṇa-samabʰiṣair vanīm iti //**********#%$tataḥ sa kr̥ṣṇa bʰuntānum   abravīṃ mārgaśaḥ //**********#%$atʰa varṣo   yāvat stanam avākeraṃ   śarau śrīḍuna_antra hātya tirījyāni cākruddʰo   vy 
+----
+Epoch 14.6829742277 average loss = 1.08988529539
+----
+ **********#%$trāradvinām āsataḥ śarān$atyartʰaṃ mahaiḥ //**********#%$tam r̥ṣen jātiṣuṃ dviṣam abravīt$abrevam ātmalam //**********#%$tatra hasyatra mādʰapatir hatāḥ śāradviśoritaḥ$tatra siṃbʰaga nāgacaiḥ /%$tālakaḥ saha gameṣm iti //**********#%$taṃ duryodʰano brahma r̥ṣi-vartʰe dr̥kṣayo bʰūtvā   dʰruvo dʰaram$evaṃ yuddʰe   śarair mahān āśūnaṃ   dʰvajerpaṃ tava somam iva pāñcʰlunā vaśān$gʰaṭla-carair yuddʰe   śonena me metiḥ   sa dāṇa-syainasya rakṣire //**********#%$medʰvadruyudʰānām apīrāji   rājan nimakṣetya pravr̥ddʰā tribʰiḥ /%$ 
+----
+Epoch 14.7138208122 average loss = 1.11091257632
+----
+ **********#%$ātmānaṃ samākupantaṃ ca bʰaratarṣabʰāḥ$camucna_anukāya ivi$taṃ jvaraṅgaiś citaḥ$satya-jayaḥ sarvā   śarāṇāṃ yatʰā; pūḍraśastrapato raṇe$apmagrato madʰurasjanaṃ duḥpiśaṃs tātaś ca māṃ bʰitratāḥ /%$didʰyatāṃ yatʰā jñāhvako vr̥ttām   arjuna_astre bʰīmasenasya   sātyakaṃ karṇaṃ   yāvat penās tatraiva   putrāṇāṃ sāyakānīṃ ca   bʰīmo ca pāṇāti vaṃ pr̥ṣṭʰataḥ pārtʰa   samyak tvarīyate$bʰīmasenaṃ   hataḥ śara-vāla_ahaṃ   karṇā$tuṣṭantī kaś can   dr̥ṣṭvā\ uttalam /%$sa nihato droṇaṃ rakṣatīyān mandarvakaryata /%$taṃ dr̥ṣṭvā_abʰipū 
+----
+Epoch 14.7446673967 average loss = 1.13660327184
+----
+ **********#%$iṣṭaivade karṇaṃ   vikṣopapitaiś citra   pitarabʰyo narair dʰikasitsēa   śakratʰyadvīdibʰiḥ$tam āpatānāṃ mahā-śalo nyavartatʰaiḥ kavā bʰīmaḥ   pāṇḍavānāṃ śibʰi$yāvatyaḥ śarān //**********#%$tasya sarva tāṇḍupantas tadado munyas   tava punaḥ   samīkṣipetena   viprāhaiś anyantaṃ   tapanibʰiḥ sa_astaka pāṇḍuṣu //**********#%$putrāḥ prahasan bʰīma-sedā dvijānitāḥ //**********#%$sudarṇanāṃ vārayitvastʰam   āśe lavaṃ śaknuvantā vikṣipat //**********#%$te māṃ bahavarṣabʰa$sa_aśpaṃ sametkām avr̥tar atāḍayat$dravyair viṣato 'nyai 
+----
+Epoch 14.7755139812 average loss = 1.19088485312
+----
+ **********#%$śataparvasam$deva_aṅgasasurīvirām$bʰayayāv āla sattama /%$mugo mahābāhur   yatʰā tusya   sātyakiṃ brīhm agādʰa ca dāruṇam$te nivārya samaḥ pratyadʰyamānā mahā-ratʰāḥ /%$ātibʰyo gāndʰāra cenāvakam antareṣa tu me sutaḥ //**********#%$tau tu māṃ gaccʰavidaḥ$jyeṣṭʰo dʰurtodaraṃ hi varūṇihuḥ //**********#%$śatena tava vai bʰuvi /%$tad yātitim āvyapraharśayan$dʰvajaiva bʰūri-gandʰa-vibʰāṣata saṃprekṣya   kṣipras tv āttabʰr̥ddʰvadattam iva vrakrena   daśr̥tuṃ vadʰe$avadʰaryaḥ prabʰaḥ /%$yumulam avyagʰo$hartir ha sena vikramam // 
+----
+Epoch 14.8063605657 average loss = 1.18708719516
+----
+ **********#%$āyugʰe tadā_anagʰa /%$cʰenakarmāṇi vā mantuḥ   kiṃ nu vīryasya   ratʰena yudʰiṣṭʰiram /%$acyauvo vyaṣācāma   viparṇair alihabahu pʰalgunaḥ /%$vivyādʰa te kopasimitām iyur iṣṭaṃ ca bāhur mahārāja   śara-palyā_iccʰati śobʰaya /%$dvipaṃ pitaraṃ marmiṣṭʰāyiṣṭām abʰirātām   ārubʰāḥ śaraiḥ //**********#%$te ratʰena tava bʰūmiṃ satavr̥tya_indrūyā yudʰiṣṭʰiraḥ /%$svalam abravīt /%$dʰr̥tarāṣṭraiḥ śreṣṭʰa   kailaṃkeyaṃ pāṇḍavāḥ samantataḥ /%$vīratīkṣaṃ karṇavarṣitam$punraḥ śa yudʰava_upahaḥ //**********#%$tato_arjunatu saindʰavāṅñ$ 
+----
+Epoch 14.8372071502 average loss = 1.18955643606
+----
+ **********#%$dʰanaṃjayau$tāvr̥ṇa_arṣuṇaḥ //**********#%$tasmiṃś cātrair bʰirnair   na jigʰāṃsanā$āvastʰaśabʰibʰāḥ pūran   sarvaṃ tām anākila sattamya ca //**********#%$drauṇir droṇa   bʰāvam ātmasaḥ$pakṣair vaidadʰinā jigʰāṃśayaḥ$ratʰa_api na gahitāny aśarāṃs tān dr̥śyantaṃ   mahadvara gatānikaḥ$ājagʰānāni   tava nigrahaiś ca ca bʰujair vr̥tʰān //**********#%$pātayān kava puṇḍarare   vicitraṃ mahāṣaṇāḥ //**********#%$syetā na_āpi   patvā kr̥tavarmā tato vau cavitrega sahayāṃs   tataḥ śitaiḥ$ni-kruddʰa gāṇḍena   ṣaḍbʰir ājinya   kaścap 
+----
+Epoch 14.8680537348 average loss = 1.19318991947
+----
+ **********#%$ādarpataḥ saṃkʰye   saṃprītāpena varmāṇam   ayādr̥ktaḥ   prajagrān saha senāṃ trāṇo 'ndayām ākāya vai tahr̥ṣāṃ śala-parvaṇaḥ /%$aloṣyati durgadʰanam āyuñ kurur vā kiirau viśrādāṃ   kra-deṣm iti //**********#%$pauravair aye /%$dr̥ṣṭvā pāṇḍavair vāñpavetk umvayadʰāś ca buddʰyā soyodʰanibʰāga dʰarmatān /%$vispargaḥ kālyaṃ   bʰayāmś cāṃrahaṃ saṃyuge ratāḥ //**********#%$atac cārī lo r̥tmubʰyāṃ sumahayoḥ   bʰāraṃ hataṃ dr̥ṣṭvā   mahānyas tu tān svayatayāḥ saha //**********#%$vadrāvitām abʰyagataḥ sabʰāṃ sātyakiṃ varaṃ pātā hy  
+----
+Epoch 14.8989003193 average loss = 1.06253877652
+----
+ **********#%$tasya śatiśitān   kriya_āśīmiṣo gajitair iva //**********#%$te 'haṃ gastuṃ he vartamāno bʰlātāpsya-satyam iva dvijaḥ para-saṃpatanam ādāya$virāṭaṃ śara-vardʰanam //**********#%$tato hi bʰārata$tasyaivyatas tataḥ /%$abʰyadravataś cārjunigyodʰanena viśāṃ pate /%$kr̥ḍadcarān marma-dʰari-drauṇiḥ   dahati saṃbʰramaḥ kriyam anyān mahā-pate /%$apantāḥ pratiṣṭʰata tad vaiśyasya   durāvāraṃ samārūtaṃ   prāviśaḥ kruddʰo muhābhave$niśccāt\ eva tatra ca sʰaye   vadʰoraṃ tatra pāṇḍavīḥ$tasmad ākʰyānam iva_ubʰau sarva-sainyān purakulvā 
+----
+Carriage Return
+Epoch 14.9297469038 average loss = 1.16249283636
+----
+ **********#%$tanam ityo_abʰyayān notraja-lodanam //**********#%$jyeṣṭʰānāya ca_āvaūya   śaro mama /%$daśa-vāya_ukta-pāṇḍa-paunyo   bʰarata_uttamam /%$yatʰā\ āyur pātḍānaṃ natʰārkayā /%$āpatnaṃ prabʰaṃ dʰārtarāṣṭra nihatān vr̥ṣa-se   vikramenāṃ dustreṇa kārtum arha-vr̥ṣdir antaro nr̥pāt$rājyaṃ harṣayām āsa   śāṇyaṃ śʰārayantāni   cikrāṇa vivaśūn   bʰārata prasārāṃś ca   manadāsmair vihatāḍinas tatʰā$āhato na kr̥taṃ dr̥śyate vyanāmāś ca   śareṣa tasyāṭaṃ   dʰr̥ṣṭadyumno madʰye_asti kr̥tāḥ kāma-bāṇeṇa   gauṣaṇeyas tvarān$pāñcālānāṃ mahā- 
+----
+Epoch 14.9605934883 average loss = 1.25041051602
+----
+ **********#%$udʰūryake sāyakasya saṃjanya   jagʰvindo viśocanaḥ$r̥cūr hatīvān ati nināhata$saṃyuteṣṭʰe pannigatsyasya te na karṇa putrāṇāṃ karma bʰr̥gro-samavatā durātmanaḥ /%$jayadratʰāraikʰe   parumāraḥ samam //**********#%$akṣayeṇyatva tam utsyiti$vyarocara kīltiman$pūrvaṃ tu tu vidʰiṣṭʰiram /%$babʰavīt pavanus   tiṣṭʰadviṣṭʰitā durmata-kemārā   dāhanā vividʰā gāṇḍīva coditaḥ$etādarśanā matīḥ$sainyaṃ parva diṣṭaṃ sārvāśaṃ   vākyam abʰavat pratyabʰrātus tatʰā /%$kr̥ṣasvairasya_āśramāṃ saṃjaya karṇa putrakā$tatasāvr̥taṃ tānam   ambād 
+----
+Epoch 14.9914400728 average loss = 1.34955218291
+----
+ **********#%$samāhr̥te jinvarāyugam evaṃ viśāṃ pate /%$yatʰaiva rāja-r̥ṣahur āśumata saṃhatau prabʰuḥ$yo vyāye vidāś caiva   katʰaiś ca paro negatāj pr̥tatā_abʰyayattama$tato_apr̥keta   tyakānād ikartamāḥ$sā sametya; yo dvayeni yo   babʰūvulā //**********#%$ete tadā gadā /%$droṇa-putrakaḥ //**********#%$adʰiḥ paumataḥ   śakunti_undāś tatʰādʰavam$hato hy avitra mām$amayakṣeṇa   hiraṇḍī bʰr̥tasmāt   sa hi te tadā$apatena ca$vācoṣyādʰi korasaḥ /%$babʰūva nāgaman //**********#%$brahma śūrāt bahugo hīnāḥ   petāni meniṣemam ārjuniḥ /%$śaṅkʰ 
+----
+Epoch 15.0222866573 average loss = 1.38463930917
+----
+ **********#%$sāvīkṣitraṃ vanaṃ vipyeya nara-ṣaṭbʰaḥ pannaga_uttamā /%$prāpsyotu bʰaistayat$agamakṣya ca$atʰa_udara śrādān   bʰujagā\ iti //**********#%$tam iva kʰyādakaṃ śaraṃ lokʰasā pannaga_uttāś ca   prayātaḥ sahasraṃ   bʰūtānām anivārāya   kr̥tvā tvaṃ mahātmanām idaṃ pravaśas tato-droṇa śakrān mama saṃcayaṃ śamaḥ parvāṇy udpūṣṭraṃ   mamyur mama prāṇānam uvāgʰaḥ$uktapantāṃś ca sakʰī-putro   vāsasya vanaṃ prastʰāni nigʰnodahad dʰarmocayām̐l lokam iva dʰarma_ātmānaṃ   samyam uktau sa   divyair atiḥ sām /%$atihāviṣṭā   devānām avaptay 
+----
+Epoch 15.0531332418 average loss = 1.31235867119
+----
+ **********#%$tato nārāyaṇaṃ rājñā   nanditāḥ kruddʰas   tam abravīt śarvāt   kuru-putrā puruṣantayaḥ kr̥tvā   kāla vr̥kṣa-vau /%$tāṃ tasyāgʰra   pūrayaḥ saṃtaptakāśaṃ kurvan   sarvanīḍam eva ca /%$ciccʰeda kaśmapat$karmaṇīt-pr̥tʰā manyāḥ balibʰītāni   nānā vārāṇāhīva prāpikaraḥ pradīptakān$tatta_eva ca_astrayiddʰā ripaḥ /%$pratapayān mehayā bahu pāṇḍava parikṣitā takṣitaṃ tatʰātra kr̥taṃ tat tiṣṭʰati //**********#%$tasya tāvān paśāca_abʰimanyus tāvikāḥ /%$itarjayantau; narasiṃhavad bālī mahābāhuḥ samapratum //**********#%$kr̥to yakṣas 
+----
+Epoch 15.0839798263 average loss = 1.3027248702
+----
+ **********#%$kīrṇasya yatamantanā$yaśo nibʰinū_aste lokā hanyāyāḥ petur uśkās te   hatās tava bʰārgaiḥ sarvaiḥ   pratijagre proktaṃ   rājyam eva_anasaṃ krodʰamānāṃ; megʰām enaṃ vitikranyaṃ   vidataṃ bʰovena hasan balān /%$prītimālacinaṃ tu te mahātmanaḥ$tataḥ śrokṣayataṃ teṣāṃ   nirīpāt kr̥tāś ca   takṣakaḥ sarvaṃ dʰanaṃjayaḥ$prabʰun nāgena   kālaḥ pebugā rājan   haya-parṣa_agnir āhāvanaṃ vedʰayātrā mahārājo   mahā_atra pārtʰivāno navaram eva ca$sarasaṃbʰayaḥ$bʰikṣupena hi /%$apotaragasāṃporaṃ ca tu naiva te //**********#%$vādbʰir har 
+----
+Epoch 15.1148264108 average loss = 1.30726214921
+----
+ **********#%$me kāryaṃ janaya-nāsakr̥t   vāsurasyādiveṣu ca yudʰiṣṭʰvān hayendraṃ; buddʰyā ca   kuśalo 'gnir uttamam$maṃśakīyās tvapa-sitāṃ pari$rājadʰiṣṭʰiraḥ$bābagaskaramān r̥ṣirān; divānaṃ smayanti susukiṃ nāśva   vācu-svalāvitārate /%$sa katʰāni naḥ sa   samupalyāntaṃ   tabʰavat punar niśitaiḥ prabʰoṣayasya viśāṃ pate //**********#%$deḥbʰān anyanti sa tu yatʰā dvija-nima-caranya\ adikṣī ca   bāṇavoḥ śatāno bʰrātr̥saśariṇā vākyaṃ   so_avitnīrtam   itam ātmanaḥ$kanyāt kanvitā bʰīma-rājaḥ sukʰa_āyutam /%$te bʰarata-trvānāṃ ca yaṃsavi 
+----
+Epoch 15.1456729954 average loss = 1.28408516431
+----
+ **********#%$pūśyanti vai kr̥to bʰūri   jīṣma brahma-nāma_iti janmagʰnn   nyavedayan$bʰūyo me maṃsaro vacanaṃ gupte   rājā saṃdʰāyadāsyāmi tasya dʰruvam /%$asinnāṃ dʰāṇī devās tvaṣituṃ vikṣī   śaṃse jita-vikramaḥ /%$naiśati-smair   bālānitasyārjīnau nimaṃśakramayann ivānākaraṃ tasmin mahābʰāge   katʰyamānaś ca duṣitīṃ prabʰum /%$mām agro_agrasasān sva-bulan samāḥ$sagrāṃ saṃśrāmār   divāśataṃ saminīmai kāruṇaḥ /%$nayaśaḥ ko muminā   dr̥ṣṭvā kariṣyasi //**********#%$ta\ eva garuḍa rāmare //**********#%$dʰanuś cāsinād abravīd idam$asāra- 
+----
+Epoch 15.1765195799 average loss = 1.35436519432
+----
+ **********#%$ṣaṣmās tāṃ pātinī sūḍagāttapatāsāṃstʰitaḥ sarvaṃ   dinavāsya pataṃ prātro mahā-ratʰāḥ /%$abʰyogataṃ haraḥ patʰam //**********#%$sā devī vā   jalā ṣuṇṭair   utva\ urdʰa_atinā saṃkʰyāyāṃ pr̥ccʰāmi svan urtalam ajānyedʰa   bʰaviṣyati$tato gugacasaho ramaḥ$āsātyakeyūvasya gadān brāhmaṇās tadātya ha$taṃ tatra sapta   gohvac ca_anyodya   syayasān nyagʰo-rākṣī   kaś cās teta pitr̥-prabʰuḥ /%$abʰimokʰyāti saṃhetā   bʰavateś ca_api sa   parasparaṃ pāstʰavam uvyamam$apa lohaṃ ca   mebʰāvuś cāpy apauyuta_upamāya_intaś ca   bahuvas t 
+----
+Epoch 15.2073661644 average loss = 1.33382305145
+----
+ **********#%$prahr̥ṣṭāḥ   paśyāmi nādity esav eva nirjitoḥ kāryaṃ kṣubʰi sāpya_iha_indragau kāmadamānataḥ //**********#%$bāṇa\ eva kaśaṃsūyās   tatʰā vada kāryāḥ$bāhsvann viṣaṇi-karpasya   pratijajñaṃ   patr̥̄paṃ cāpi saṃtatsa-vakṣyāmi   tasyā vijño mama_uttama /%$vidrāva śrutāyutaḥ$uttāṅśa nigatau vīrā yeṣāpite ca_eva   sahasā duḥkʰi-smahan arvisaḥ /%$agnaspabʰya /%$api sr̥ṣṭaṃ te pupra-kartānāṃ   na prayaccʰavasaṃstv uttamaya kr̥tve yudʰi-lokāś ca_aparaiḥ //**********#%$nārucadʰvaṃ; praṇāstʰnām adyapitā daham$inn mr̥tya-varta-bʰātkʰ 
+----
+Epoch 15.2382127489 average loss = 1.42289234495
+----
+ **********#%$vadulcani //**********#%$taṃ rājā dr̥gʰe /%$vidvāṃs titā_ahaṇyaḥ //**********#%$pratʰataṃ paśya   ve tu vastram utsahe$apātyāṃ pātiṃ me   brahmasaḥ parā$sī gabrum āyau; hi jajñe ca   gr̥hān javan //**********#%$yudʰiṣṭʰiraṃ katʰramau //**********#%$dvāvasikṣīd   buṇāśi$vidvā-bʰusaṃ utsatiḥ katʰām /%$brahmaṇīyam edaric cʰalana_āsīn   na dyumyaṃ   jañjane papāta sahite   mānāyadʰānūrāv iva virṇīyaḥ   śarīrān yāṃ yatʰā prāvartate kulā ca_apatatkīlaḥ   śiṣe devā divyam abʰyavartata //**********#%$maharṣiḥ puruṣubʰāṃ garjayiṣy 
+----
+Epoch 15.2690593334 average loss = 1.24638514376
+----
+ **********#%$āvasaṃ bʰavatāṃ cātra   svāsu rājñaḥ   śāgrūm aneyaḥ saṃnappatākinaḥ //**********#%$putrān ajamaskr̥tam$māto matīpā tu   kuru-śreyam   atro 'yaṃ dʰārtir   āstīka paryabʰuḥ /%$satyavadʰavena ha$taḥ sa durjitam /%$ke iva_āsmaye /%$tasmit te bʰarmarūho mayā   vyūyudvainatam āhar; mahā-rāja   jaleṣv ardʰarūkila$duryodʰane mādʰe sa vadʰāt pitā bʰr̥śām //**********#%$harīd dʰarmaḥ katʰaṃ pratibʰir muktaṃ   vānyam adrasam$satyam ācakʰyaṃ   dʰarmajñū cane saṃccʰitā /%$r̥ṣaseṇaḥ sahadaiś caiva   vāsuvena vacaṃ pratipatyeṣu soditim 
+----
+Epoch 15.2999059179 average loss = 1.23128063142
+----
+ **********#%$na tvaṃ te vīra-danninā /%$parādʰayan$stana_ardriyatavān uṣakāryād aparājitam /%$bʰāradvājaṃ cʰinna-vr̥ddʰinam$śocapārāha mahā-yagamuṇair astʰau   śrutvā punar bʰr̥tārāṇam abʰinat jñevita_occʰayinvayāḥ /%$bʰāratānāṃ   kr̥pavaś caritīpratʰam$puṇyaṃ kārataṃ vayau /%$dʰanaṃ videnayaḥ //**********#%$yudʰiṣṭʰiraṅgadā /%$yatʰātarod dʰarmavīdito niścitaṃ mūrtʰā   kṣvāraṃ vaye katʰamānanta   visupaṅpeyaṃ   prjyayād abruvann iva_antākṣiti tatʰātāṃ ca pradʰānāṃ yuddʰe   tvariṇā vidrun   sarvataḥ prakāśitaḥ //**********#%$bʰaglacena 
+----
+Epoch 15.3307525024 average loss = 1.2501087178
+----
+ **********#%$tataḥ saprabʰāvīs tv ati$sa hane keśavī tatʰā //**********#%$dāvara_artʰaṃ ca pārtʰivaḥ$jigʰreka_ākma-vardʰaiḥ //**********#%$cukraśobabʰāḥ$śara-sahraś ca so bʰarati sutra-gata_astravita_etat saṃkalpatiṣṭʰirām āmarate rājan   purasāko duśābʰiḥ paryacara_ājagʰno   droṇānavrate taṃ sarve   jñātvye dʰotam araṃcana //**********#%$tatas tu tām abʰibʰogat /%$kʰalakatyāmi   virāya varāt tasmān   brahman balukʰināḥ //**********#%$tato dūṣāḥ sukʰaḥ   saṃbʰrāntāṃ   kuṇḍalya ca kūrmitau$jaratkarau$agʰatsyitām ārubʰas tatas tato yānī 
+----
+Epoch 15.3615990869 average loss = 1.17592628384
+----
+ **********#%$tasya pratāpavān$sumakaś ca pañcavaṃ   kaṇaiḥ saṃkruddʰo   darśayan satyam aparāpya kuru vr̥ṣṭi-paṭāḥ prayato nayan$yaḥ saṃdʰatāḥ /%$tatʰaive gajanīr āsudʰaruṣaṃ   tatʰā_apasya   ccittyā pratijñāṃ tad abʰidadʰi rājair vinodʰanam$jagāma dʰarmojñam   āstīkaṃ vidrivakṣayaḥ$saubʰadravat //**********#%$atuṣair vacāniśat /%$atʰakāndrair avīro   yudʰiṣṭʰire tu tanayā   rājraṃ ca mahā-r̥jasya śakuṃs tāta   śūbʰair ahaṃ yaśanair   mahattā\ upacaktyānāṃ   śakto vikramaḥ //**********#%$pāṇḍavā rājñā   mātr̥nvān janayena ca$mūrdʰinaḥ 
+----
+Epoch 15.3924456715 average loss = 1.29726396823
+----
+ **********#%$draṣṭa-kimāram avargata //**********#%$nindreṇām anisvīṣe   tatʰā lambuṣā /%$avapsyanti punar matmo   vr̥ttasya kṣiṇaḥ$adʰyāyācāṃ   putra goroḥ   śikro yutā manaḥ$ṣaḍbʰiḥ kocana vā   sunnadādʰinā$yadi me yodʰavāñ parivīrmitā /%$karma tuṣyati$tās tatra_anugamaḥ kāmbʰajam$kālaṃ varā gatiḥ$te tadā yatʰā$niḥgʰnamaṃ tapas tāta   sūta-putraṃ pariyaṃśayām //**********#%$tasmāyame varyaṃ   vyadʰamat kāla_ojasa /%$sanāmaiś ca pr̥ṣṭʰā   pratyudyate yugdʰena   prataptartam   īkrid āśramam /%$mānam eṣa vinādyamo vr̥ttāḥ paryakṣayor g 
+----
+Epoch 15.423292256 average loss = 1.30066407549
+----
+ **********#%$bahūn astaṃ parivāvibʰiṣyati //**********#%$kintye pratyudye ca nāhanau /%$kumarūpāṇāṃ   tad adya namena ca$śapta-dʰara_ity ucgulaṃ kaurava pāvakūm$ākʰalupīyasya tādr̥t sva-dītya-parāyaṇāḥ smayaig jīvīmi dʰanuś ca_iti ratʰināṃ śukra-matayor iva_abʰavaṃ sattʰais tīvr adya vadʰa yat tudakāḥ śarmā   dʰarmeṣu dʰarmo yudayau rājan   duryodʰana me śimaḥ$tāya śaktānāṃ   tato bʰūmā   sa mahā vīrau   deve nadānaś caiva babāra mahat stʰatuḥ$kṣopaṃ saṃpraveśena   sindʰu-lāṅgaṇānāṃ mahad dadruś ca   mahāratʰettir udyamya sādʰr̥yaḥ$ah 
+----
+Epoch 15.4541388405 average loss = 1.18586907589
+----
+ **********#%$taṃ nurośataṃ śūre ratʰināṃ varaḥ$nārāyo 'smikaṃ hriyo vara   sarveṇāṃ taṃ droṇam abʰyateṣa dīrgʰa_eva kaṃ pata-mrītā   kārtiṃ ca sarvakṣaṃḥ pratīpam   īkṣamaṇīṃ mahān$yomādam abʰiṣeṇitāṃśāt tāṃ   nīyāter viśādravam$nimr̥tya bʰujneṣu vāḥ keñas tvativāpya kule śalyo   dr̥śyandro yudʰiṣṭʰirau$tīrṇān samartantaṃ   veda-pāṇaṃ varmā   pr̥tʰivyām anyo   yad astr̥ṃkasya purā   pratyuptayās tadā /%$atʰa cānyagaratas   tasyuke bʰadraṃ te   kr̥tvā tu vikrantas   tyajitās tairyavaraiś caiva   kam aityaṃ meyuṃ vākyaṃ   prayāty abʰau  
+----
+Epoch 15.484985425 average loss = 1.20119090545
+----
+ **********#%$gadāṃ br̥hasmatām /%$nāstʰasna_indraḥ   kṣipala-śvāla putras tayor gʰoraḥ kṣipraṃ   mānasavyair; balāhaśam$saṃyugat kāraṇadmātasyottʰāḥ   svajena kāriṇā$tvad-yudʰā vai jrātā   karcan śapna-saṃprāptā   smaranta\ iva_abʰitatāṃ gaccʰa vai paṇyavānād dr̥ṣṭvā   sanyā sainye diśo rājaḥ   sindʰu-rājas tavi vyapādayat$atʰa_abreheṇa mahā-bāgo nirāyetir   asatrī janayām āsa   yatʰānyaś ca durbʰidʰaḥ paśyāmi janasyābʰavad asi me kiṃkaroti; tasya tuṣṭʰavitānihaṃ śavisanāṃśināḥ //**********#%$tāvr̥tām anivartinī /%$duṣkāḥ śocirayoḥ sa 
+----
+Epoch 15.5158320095 average loss = 1.15153274
+----
+ **********#%$drukṣiṇaṃ dr̥ṣṭvā   triṣabʰasya bʰārata //**********#%$vāraṇena ca$brāhmaṇānīmā   dʰr̥tyāṣvānām akurvanta   rājajñasya mahā-bʰāgau   dʰr̥ṣṭa_astʰāḥ sudarśanāsya nipstribʰir vadʰevaraiḥ$kauntīyaṃ hi tvād  hayāś cainav arjunam atāmini ratʰaṃ   nemāsute ratʰire jyaṣgʰaṃ   sahī jagrāha tādr̥g akedanam$satvatyā sama-rjyodʰaḥ   parān hītvā   yadi hy adya   drumadaṃ sarbʰir dʰri-vājinis tadā$naraiḥ saṃvatapādanam$śr̥ṇu tvām anyānyaṃ   vīrau rājānāṃ   pārtʰaṃ bʰaratau vardʰāvarapaṅgavān iva   vyadrūvaṃ vaikam iva_abʰavat //****** 
+----
+Epoch 15.546678594 average loss = 1.10985346544
+----
+ **********#%$tātavasya śālair akalpan varavad āreṇi   prāpeśāc ca vipayat /%$raṇe 'bravīt$puruṣaṃ vīrāḥ   prayādva ca //**********#%$śastrapuṇḍaleṣu ca //**********#%$eke citra-bʰāri vīryavān$śrutvā mahā-vāso   māliivedd^bʰavitir abʰīṣattam aśarbʰayām āsa vainasiḥ$sa vaktram[̥kasya mādʰo vr̥trajñaṃ   te 'dʰiṣṭʰavasya vidāras tu   prahāryaupaśyate sarvaṃ   yāvat kṣorasya mukʰo rājair   alapgr̥ṇaḥ$mahīpayetv āhavaṃ lokān   ukto nāru-nārya; pārtʰenaṃ   samākālaṃ saṃkʰye   pāśīvite caiva   tūlve 'li hi meṣayām$pratijñāya   nirmoktam api m 
+----
+Epoch 15.5775251785 average loss = 1.09995476544
+----
+ **********#%$tasmiṃś cākṣakoc ca śatāśikʰiṃ caiva   vijñāyyaṃ sa vāmahirīṇāṃ ca śaivaṃ hayetu yāgadān /%$gaccʰam idaṃ tasmāñ   salr̥ṇe-śoṇyaṃ   svasti ca_enaṃ saṃgʰānyā   gajanyaṃ vasune satyaṃ   cyāyaṃ vā yattām   āyasya kiṃcaya //**********#%$ity eva kāṃ karma   yuyutsur diśam /%$anivrāte bʰīma-saṃgraha-śatrāya saha_aśva_oraṇa   tvaramāṇo dʰīmavaḥ /%$tato vīryaṃ   yatʰā vr̥taḥ$tvayi droṇas tu raṇa_uttaṃ mahāratʰam$tatra punar   yani rājāntaṃ   pārṣatān vara-/%$vivyādʰān sʰana-durpunda raṇe kruddʰe   bahu vātra-ratʰaṃ   dʰr̥tarāṣṭra_ 
+----
+Epoch 15.608371763 average loss = 1.13908556676
+----
+ **********#%$tato mahā-bʰāga   tavartaḥ pantaga-sātmanaḥ //**********#%$pratyagr̥hṇīr yuddʰakāreṇa bʰārata$asā gavān /%$tejo dʰunuye sūta sāyokān   durureṣṭʰo vā   bʰbānarūpāṇām   enasya ca ha sauvidʰo vaiśyaṃs tava māhavaḥ$dr̥ṣṭvā prahardinī //**********#%$āyaiṣu vedāt   tvaitaḥ śaraiḥ$nigītas tvāṃ   yatra_artʰaṃ maheṣvāsu   rukmajña_anakr̥t //**********#%$tatʰā vasane$yoga-mukte   puñpata-ma_aṣṭaṃ carair nāma-hatvā viṣāṣṭavastʰaiḥ sahasraśaḥ$saṃtrasya dr̥ṣṭvā sa śaidaś ca śaināyo   bʰīma-senasu //**********#%$tāv ihā gālaṃ   tad abr 
+----
