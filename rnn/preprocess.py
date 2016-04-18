@@ -5,7 +5,7 @@ import lasagne
 
 #sys.stdout=open("log2.txt","w")
 print "Hello"
-in_text = open('data4.txt', 'r').read()
+in_text = open('mahabharata.txt', 'r').read()
 in_text = in_text.decode("utf-8-sig")
 chars = list(set(in_text))
 data_size, vocab_size = len(in_text), len(chars)
@@ -32,6 +32,20 @@ def make(p, batch_size = BATCH_SIZE, data=in_text, return_target=True):
             y[n] = char_to_ix[data[p+ptr+LEN]]
     return x, np.array(y,dtype='int32')
 
+def try_it_out(N=530):
+    assert(len(seed_string)>=LEN)
+    sample_ix = []
+    x,_ = make(len(seed_string)-LEN, 1, seed_string,0)
+    for i in range(N):
+        ix = np.random.choice(np.arange(vocab_size), p=probs(x).ravel())
+        sample_ix.append(ix)
+        x[:,0:LEN-1,:] = x[:,1:,:]
+        x[:,LEN-1,:] = 0
+        x[0,LEN-1,sample_ix[-1]] = 1. 
+    random_snippet = seed_string + ''.join(ix_to_char[ix] for ix in sample_ix)   
+    random_snippet2=random_snippet.encode('utf-8')
+    print("----\n %s \n----" % random_snippet2)
+
 def main(EPOCHS=EPOCHS):
     seed_string = "**********"
     print "Start lasagne layers"
@@ -54,19 +68,6 @@ def main(EPOCHS=EPOCHS):
     train = theano.function([l_in.input_var, target_values], cost, updates=updates, allow_input_downcast=True)
     error = theano.function([l_in.input_var, target_values], cost, allow_input_downcast=True)
     probs = theano.function([l_in.input_var],network_output,allow_input_downcast=True)
-    def try_it_out(N=530):
-        assert(len(seed_string)>=LEN)
-        sample_ix = []
-        x,_ = make(len(seed_string)-LEN, 1, seed_string,0)
-        for i in range(N):
-            ix = np.random.choice(np.arange(vocab_size), p=probs(x).ravel())
-            sample_ix.append(ix)
-            x[:,0:LEN-1,:] = x[:,1:,:]
-            x[:,LEN-1,:] = 0
-            x[0,LEN-1,sample_ix[-1]] = 1. 
-        random_snippet = seed_string + ''.join(ix_to_char[ix] for ix in sample_ix)   
-        random_snippet2=random_snippet.encode('utf-8')
-        print("----\n %s \n----" % random_snippet2)
    
     print "Start training"
     p=0
